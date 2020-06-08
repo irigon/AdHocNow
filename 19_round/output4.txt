@@ -1,0 +1,1458 @@
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 1/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23696: 394.93 1/s
+120.0 26984: 54.80 1/s
+180.0 28866: 31.36 1/s
+240.0 30184: 21.97 1/s
+300.0 30918: 12.22 1/s
+360.0 31589: 11.19 1/s
+420.3 31627: 0.62 1/s
+480.4 32199: 9.55 1/s
+540.4 32941: 12.36 1/s
+600.4 33624: 11.38 1/s
+660.4 34277: 10.88 1/s
+720.4 34921: 10.73 1/s
+780.4 35586: 11.07 1/s
+840.4 36255: 11.15 1/s
+900.4 36917: 11.04 1/s
+960.4 37504: 9.77 1/s
+1020.4 38112: 10.13 1/s
+1080.4 38650: 8.97 1/s
+1140.4 39197: 9.13 1/s
+1180.9 39600: 9.96 1/s
+Simulation done in 1180.74s
+---
+All done in 1181.89s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.7', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 2/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23648: 394.13 1/s
+120.0 26823: 52.90 1/s
+180.0 28689: 31.10 1/s
+240.0 30096: 23.45 1/s
+300.0 31139: 17.38 1/s
+360.0 31921: 13.04 1/s
+420.0 32666: 12.41 1/s
+480.0 33363: 11.62 1/s
+540.1 34025: 11.04 1/s
+600.1 34636: 10.19 1/s
+660.1 35289: 10.88 1/s
+720.1 35999: 11.83 1/s
+780.1 36673: 11.24 1/s
+840.1 37335: 11.02 1/s
+900.1 37981: 10.77 1/s
+960.1 38589: 10.13 1/s
+1020.1 39187: 9.97 1/s
+1060.2 39600: 10.30 1/s
+Simulation done in 1060.10s
+---
+All done in 1061.33s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.8', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 3/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23718: 395.28 1/s
+120.0 26960: 54.04 1/s
+177.9 28800: 31.80 1/s
+Simulation done in 177.80s
+---
+All done in 179.10s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.2', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 4/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23493: 391.54 1/s
+120.0 26652: 52.65 1/s
+180.0 28491: 30.65 1/s
+192.0 28800: 25.81 1/s
+Simulation done in 191.89s
+---
+All done in 193.21s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 5/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23499: 391.64 1/s
+120.0 26793: 54.90 1/s
+180.0 28718: 32.08 1/s
+240.0 30075: 22.61 1/s
+300.0 31060: 16.41 1/s
+360.0 31895: 13.92 1/s
+420.0 32660: 12.75 1/s
+480.0 33357: 11.62 1/s
+540.0 34013: 10.94 1/s
+600.1 34631: 10.28 1/s
+660.1 35282: 10.86 1/s
+720.1 35952: 11.15 1/s
+780.1 36610: 10.97 1/s
+840.1 37229: 10.31 1/s
+900.1 37862: 10.56 1/s
+960.1 38415: 9.22 1/s
+1020.1 38948: 8.88 1/s
+1080.1 39484: 8.92 1/s
+1091.8 39600: 9.94 1/s
+Simulation done in 1091.67s
+---
+All done in 1093.08s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 8/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23497: 391.60 1/s
+120.0 26708: 53.51 1/s
+180.0 28596: 31.46 1/s
+240.0 29956: 22.68 1/s
+300.0 31036: 17.98 1/s
+360.0 31869: 13.89 1/s
+420.0 32601: 12.20 1/s
+480.1 33312: 11.84 1/s
+540.1 33970: 10.97 1/s
+600.1 34617: 10.79 1/s
+660.1 35282: 11.07 1/s
+720.1 35959: 11.28 1/s
+780.1 36662: 11.72 1/s
+840.1 37301: 10.65 1/s
+900.1 37940: 10.65 1/s
+960.1 38573: 10.54 1/s
+1020.1 39152: 9.65 1/s
+1064.0 39600: 10.23 1/s
+Simulation done in 1063.85s
+---
+All done in 1065.16s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 10/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23553: 392.54 1/s
+120.0 26881: 55.47 1/s
+180.0 28855: 32.90 1/s
+240.0 30254: 23.31 1/s
+300.0 31274: 17.01 1/s
+360.0 32151: 14.60 1/s
+420.0 32900: 12.48 1/s
+480.0 33610: 11.84 1/s
+540.1 34261: 10.85 1/s
+600.1 34877: 10.26 1/s
+660.1 35541: 11.07 1/s
+720.1 36223: 11.36 1/s
+780.1 36881: 10.97 1/s
+840.1 37456: 9.58 1/s
+900.1 38086: 10.50 1/s
+960.1 38599: 8.55 1/s
+1020.1 39182: 9.72 1/s
+1062.5 39600: 9.86 1/s
+Simulation done in 1062.34s
+---
+All done in 1063.72s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 13/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23663: 394.37 1/s
+120.0 26887: 53.74 1/s
+180.0 28818: 32.18 1/s
+240.0 30214: 23.26 1/s
+300.0 31219: 16.75 1/s
+360.0 32003: 13.08 1/s
+420.0 32768: 12.74 1/s
+480.0 33409: 10.69 1/s
+540.0 34078: 11.15 1/s
+600.1 34693: 10.25 1/s
+660.1 35347: 10.89 1/s
+720.1 36071: 12.06 1/s
+780.1 36791: 12.00 1/s
+840.1 37451: 11.00 1/s
+900.1 38102: 10.85 1/s
+960.1 38703: 10.00 1/s
+1020.1 39305: 10.04 1/s
+1050.1 39600: 9.86 1/s
+Simulation done in 1049.95s
+---
+All done in 1051.28s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.8', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 14/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23630: 393.82 1/s
+120.0 26856: 53.77 1/s
+180.0 28759: 31.73 1/s
+181.1 28800: 37.59 1/s
+Simulation done in 180.98s
+---
+All done in 182.26s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.7', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 15/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23549: 392.47 1/s
+120.0 26767: 53.65 1/s
+180.0 28691: 32.06 1/s
+240.0 30088: 23.28 1/s
+300.0 31089: 16.69 1/s
+360.0 31901: 13.52 1/s
+420.0 32689: 13.14 1/s
+480.0 33374: 11.41 1/s
+540.0 34034: 11.01 1/s
+600.0 34684: 10.82 1/s
+660.1 35340: 10.94 1/s
+720.1 36042: 11.70 1/s
+780.1 36730: 11.47 1/s
+840.1 37381: 10.85 1/s
+900.1 37985: 10.06 1/s
+960.1 38583: 9.96 1/s
+1020.1 39179: 9.93 1/s
+1061.4 39600: 10.20 1/s
+Simulation done in 1061.27s
+---
+All done in 1062.58s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.3', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 16/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23521: 392.00 1/s
+120.0 26667: 52.43 1/s
+180.0 28626: 32.65 1/s
+240.0 29973: 22.45 1/s
+300.0 30981: 16.80 1/s
+360.0 31802: 13.68 1/s
+420.1 32534: 12.20 1/s
+480.1 33192: 10.97 1/s
+540.1 33843: 10.85 1/s
+600.1 34446: 10.04 1/s
+660.1 35098: 10.88 1/s
+720.1 35772: 11.23 1/s
+780.1 36449: 11.28 1/s
+840.1 37140: 11.51 1/s
+900.1 37802: 11.04 1/s
+960.1 38438: 10.59 1/s
+1020.1 39017: 9.65 1/s
+1079.8 39600: 9.78 1/s
+Simulation done in 1079.64s
+---
+All done in 1080.98s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.1', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 17/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23422: 390.36 1/s
+120.0 26594: 52.87 1/s
+180.0 28558: 32.72 1/s
+189.7 28800: 25.13 1/s
+Simulation done in 189.57s
+---
+All done in 190.90s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.2', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 19/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23390: 389.83 1/s
+120.0 26581: 53.17 1/s
+180.0 28485: 31.74 1/s
+192.4 28800: 25.48 1/s
+Simulation done in 192.31s
+---
+All done in 193.58s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.3', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 20/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23526: 392.10 1/s
+120.0 26650: 52.05 1/s
+180.0 28559: 31.82 1/s
+189.9 28800: 24.45 1/s
+Simulation done in 189.78s
+---
+All done in 191.10s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.7', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 21/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23561: 392.68 1/s
+120.0 26766: 53.40 1/s
+180.0 28706: 32.35 1/s
+183.0 28800: 31.22 1/s
+Simulation done in 182.93s
+---
+All done in 184.27s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 22/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23373: 389.54 1/s
+120.0 26535: 52.71 1/s
+180.0 28465: 32.16 1/s
+192.1 28800: 27.68 1/s
+Simulation done in 192.05s
+---
+All done in 193.30s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.1', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 23/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23578: 392.96 1/s
+120.0 26759: 53.01 1/s
+180.0 28748: 33.15 1/s
+240.0 30131: 23.05 1/s
+300.0 31156: 17.08 1/s
+360.0 31942: 13.09 1/s
+420.0 32722: 13.01 1/s
+480.0 33428: 11.76 1/s
+540.1 34089: 11.02 1/s
+600.1 34740: 10.84 1/s
+660.1 35411: 11.19 1/s
+720.1 36141: 12.15 1/s
+780.1 36838: 11.63 1/s
+840.1 37477: 10.64 1/s
+900.1 38117: 10.67 1/s
+960.1 38751: 10.57 1/s
+1020.1 39366: 10.24 1/s
+1044.8 39600: 9.48 1/s
+Simulation done in 1044.70s
+---
+All done in 1046.05s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.4', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 26/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23485: 391.40 1/s
+120.0 26639: 52.58 1/s
+180.0 28572: 32.20 1/s
+188.2 28800: 28.06 1/s
+Simulation done in 188.07s
+---
+All done in 189.39s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.5', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 27/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23521: 392.01 1/s
+120.0 26705: 53.06 1/s
+180.0 28636: 32.18 1/s
+185.8 28800: 28.29 1/s
+Simulation done in 185.70s
+---
+All done in 187.01s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '1.0', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 28/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23729: 395.48 1/s
+120.0 27054: 55.42 1/s
+180.0 29159: 35.08 1/s
+240.0 30666: 25.11 1/s
+300.0 31815: 19.14 1/s
+360.0 32845: 17.17 1/s
+420.0 33673: 13.79 1/s
+480.0 34476: 13.38 1/s
+540.0 35236: 12.67 1/s
+600.1 35957: 12.01 1/s
+660.1 36690: 12.21 1/s
+720.1 37413: 12.06 1/s
+780.1 38003: 9.83 1/s
+840.1 38615: 10.20 1/s
+900.1 39193: 9.62 1/s
+941.6 39600: 9.82 1/s
+Simulation done in 941.44s
+---
+All done in 942.81s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.8', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 29/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23523: 392.02 1/s
+120.0 26772: 54.15 1/s
+180.0 28695: 32.05 1/s
+240.0 30135: 24.00 1/s
+300.0 31163: 17.14 1/s
+360.0 31986: 13.71 1/s
+420.0 32771: 13.08 1/s
+480.1 33435: 11.08 1/s
+540.1 34097: 11.04 1/s
+600.1 34739: 10.69 1/s
+660.1 35353: 10.24 1/s
+720.1 36048: 11.58 1/s
+780.1 36680: 10.53 1/s
+840.1 37290: 10.17 1/s
+900.1 37918: 10.46 1/s
+960.1 38520: 10.02 1/s
+1020.1 39091: 9.52 1/s
+1072.0 39600: 9.82 1/s
+Simulation done in 1071.89s
+---
+All done in 1073.28s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 30/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23618: 393.63 1/s
+120.0 26896: 54.63 1/s
+177.6 28800: 33.04 1/s
+Simulation done in 177.57s
+---
+All done in 178.77s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.2', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 32/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23475: 391.25 1/s
+120.0 26652: 52.94 1/s
+180.0 28615: 32.72 1/s
+240.0 29986: 22.85 1/s
+300.0 31031: 17.42 1/s
+360.0 31876: 14.08 1/s
+420.0 32651: 12.91 1/s
+480.0 33312: 11.01 1/s
+540.1 33968: 10.93 1/s
+600.1 34626: 10.97 1/s
+660.1 35291: 11.08 1/s
+720.1 36009: 11.96 1/s
+780.1 36707: 11.63 1/s
+840.1 37351: 10.73 1/s
+900.1 37987: 10.61 1/s
+960.1 38596: 10.15 1/s
+1020.1 39223: 10.45 1/s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.4', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.8', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+60.0 23674: 394.56 1/s
+60.0 23830: 397.16 1/s
+120.0 26770: 51.60 1/s
+120.0 27084: 54.23 1/s
+180.0 28718: 32.47 1/s
+182.5 28800: 32.98 1/s
+Simulation done in 182.42s
+---
+All done in 183.44s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.5', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+172.4 28800: 32.76 1/s
+Simulation done in 172.32s
+---
+All done in 173.37s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.8', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 23580: 392.98 1/s
+60.0 23554: 392.57 1/s
+120.0 26722: 52.36 1/s
+120.0 26736: 53.02 1/s
+180.0 28629: 31.79 1/s
+180.0 28649: 31.88 1/s
+185.1 28800: 29.49 1/s
+Simulation done in 185.05s
+---
+All done in 186.26s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.3', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+240.0 29998: 22.82 1/s
+60.0 23470: 391.15 1/s
+300.0 31022: 17.06 1/s
+120.0 26595: 52.09 1/s
+360.0 31803: 13.02 1/s
+180.0 28557: 32.69 1/s
+420.0 32546: 12.37 1/s
+240.0 29941: 23.07 1/s
+480.0 33228: 11.38 1/s
+300.0 30977: 17.27 1/s
+540.0 33901: 11.22 1/s
+360.0 31809: 13.87 1/s
+600.1 34514: 10.20 1/s
+420.0 32566: 12.61 1/s
+660.1 35176: 11.04 1/s
+480.0 33260: 11.57 1/s
+720.1 35841: 11.07 1/s
+540.0 33931: 11.18 1/s
+780.1 36542: 11.69 1/s
+600.1 34576: 10.74 1/s
+840.1 37212: 11.15 1/s
+660.1 35286: 11.84 1/s
+900.1 37898: 11.44 1/s
+720.1 36045: 12.64 1/s
+960.1 38552: 10.90 1/s
+780.1 36739: 11.57 1/s
+1020.1 39178: 10.42 1/s
+840.1 37396: 10.95 1/s
+1063.8 39600: 9.67 1/s
+Simulation done in 1063.65s
+---
+All done in 1064.88s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.1', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+900.1 38002: 10.09 1/s
+60.0 23635: 393.91 1/s
+960.1 38590: 9.81 1/s
+120.0 26750: 51.92 1/s
+1020.1 39181: 9.85 1/s
+180.0 28691: 32.36 1/s
+183.9 28800: 27.69 1/s
+Simulation done in 183.84s
+---
+All done in 185.16s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+1062.9 39600: 9.79 1/s
+Simulation done in 1062.81s
+---
+All done in 1064.13s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.3', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+60.0 23491: 391.51 1/s
+60.0 23584: 393.06 1/s
+120.0 26695: 53.39 1/s
+120.0 26737: 52.55 1/s
+180.0 28624: 32.15 1/s
+180.0 28682: 32.42 1/s
+184.0 28800: 29.79 1/s
+Simulation done in 183.89s
+---
+All done in 185.20s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '1.0', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+240.0 30007: 23.06 1/s
+60.0 23555: 392.59 1/s
+300.0 31086: 17.98 1/s
+120.0 26847: 54.86 1/s
+360.0 31896: 13.50 1/s
+173.8 28800: 36.28 1/s
+Simulation done in 173.76s
+---
+All done in 175.03s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.2', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+420.0 32659: 12.72 1/s
+60.0 23467: 391.10 1/s
+480.1 33364: 11.74 1/s
+120.0 26641: 52.90 1/s
+540.1 34004: 10.68 1/s
+180.0 28576: 32.25 1/s
+187.8 28800: 28.87 1/s
+Simulation done in 187.67s
+---
+All done in 188.94s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+600.1 34680: 11.26 1/s
+60.0 23351: 389.18 1/s
+660.1 35317: 10.62 1/s
+120.0 26660: 55.14 1/s
+720.1 36014: 11.61 1/s
+180.0 28620: 32.66 1/s
+186.6 28800: 27.28 1/s
+Simulation done in 186.55s
+---
+All done in 187.82s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.7', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 0/60
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+780.1 36677: 11.05 1/s
+60.0 23550: 392.49 1/s
+840.1 37357: 11.35 1/s
+120.0 26753: 53.38 1/s
+900.1 37993: 10.59 1/s
+180.0 28757: 33.40 1/s
+960.1 38699: 11.77 1/s
+240.0 30320: 26.04 1/s
+1020.1 39368: 11.16 1/s
+1039.7 39600: 11.81 1/s
+Simulation done in 1039.60s
+---
+All done in 1040.91s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+300.0 31572: 20.87 1/s
+360.0 32655: 18.04 1/s
+420.0 33624: 16.15 1/s
+480.0 34546: 15.37 1/s
+540.0 35534: 16.46 1/s
+600.0 36547: 16.88 1/s
+660.0 37510: 16.05 1/s
+720.1 38410: 15.01 1/s
+780.1 39224: 13.56 1/s
+805.4 39600: 14.83 1/s
+Simulation done in 805.30s
+---
+All done in 806.57s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.2', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 1/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.7', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 1/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 9563: 159.37 1/s
+60.0 9610: 160.16 1/s
+120.0 16192: 110.49 1/s
+120.0 16154: 109.06 1/s
+180.0 20630: 73.97 1/s
+180.0 20534: 73.00 1/s
+240.0 22657: 33.78 1/s
+240.0 22577: 34.06 1/s
+300.0 24026: 22.81 1/s
+300.0 23956: 22.98 1/s
+360.0 25103: 17.94 1/s
+360.0 25036: 18.00 1/s
+420.0 25930: 13.79 1/s
+420.0 25928: 14.85 1/s
+480.0 26619: 11.47 1/s
+480.0 26661: 12.22 1/s
+540.0 27251: 10.55 1/s
+540.1 27362: 11.68 1/s
+600.1 27791: 8.99 1/s
+600.1 27854: 8.20 1/s
+660.1 28261: 7.83 1/s
+660.1 28322: 7.80 1/s
+720.1 28698: 7.28 1/s
+733.5 28800: 7.63 1/s
+Simulation done in 733.40s
+---
+All done in 734.78s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 3/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+720.1 28750: 7.12 1/s
+727.1 28800: 7.16 1/s
+Simulation done in 727.02s
+---
+All done in 728.62s
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 2/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 9741: 162.34 1/s
+60.0 9870: 164.50 1/s
+120.0 16392: 110.86 1/s
+120.0 16707: 113.94 1/s
+180.0 20723: 72.18 1/s
+180.0 20875: 69.46 1/s
+240.0 22809: 34.77 1/s
+240.0 22898: 33.71 1/s
+300.0 24242: 23.87 1/s
+300.0 24323: 23.75 1/s
+360.0 25319: 17.96 1/s
+360.0 25469: 19.11 1/s
+420.0 26166: 14.12 1/s
+420.0 26281: 13.54 1/s
+480.0 26894: 12.12 1/s
+480.0 27075: 13.23 1/s
+540.0 27534: 10.67 1/s
+540.0 27769: 11.57 1/s
+600.0 28049: 8.59 1/s
+600.0 28280: 8.51 1/s
+660.0 28532: 8.05 1/s
+698.8 28800: 6.91 1/s
+Simulation done in 698.70s
+---
+All done in 700.28s
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.3', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 4/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+660.0 28728: 7.46 1/s
+670.0 28800: 7.27 1/s
+Simulation done in 669.88s
+---
+All done in 671.42s
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 3/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 9520: 158.66 1/s
+60.0 9746: 162.42 1/s
+120.0 16068: 109.13 1/s
+120.0 16457: 111.86 1/s
+180.0 20553: 74.76 1/s
+180.0 20804: 72.45 1/s
+240.0 22712: 35.98 1/s
+240.0 22881: 34.61 1/s
+300.0 24176: 24.41 1/s
+300.0 24404: 25.38 1/s
+360.0 25311: 18.92 1/s
+360.0 25489: 18.09 1/s
+420.0 26193: 14.69 1/s
+420.0 26308: 13.65 1/s
+480.0 26903: 11.83 1/s
+480.0 27025: 11.94 1/s
+540.0 27516: 10.21 1/s
+540.0 27650: 10.42 1/s
+600.0 27985: 7.82 1/s
+600.0 28130: 7.99 1/s
+660.0 28444: 7.65 1/s
+660.0 28624: 8.23 1/s
+720.1 28858: 6.90 1/s
+720.1 29072: 7.47 1/s
+780.1 29277: 6.98 1/s
+780.1 29529: 7.62 1/s
+840.1 29694: 6.95 1/s
+840.1 29980: 7.52 1/s
+900.1 30078: 6.40 1/s
+900.1 30379: 6.65 1/s
+960.1 30479: 6.68 1/s
+960.1 30764: 6.42 1/s
+1020.1 30835: 5.93 1/s
+1020.1 31134: 6.17 1/s
+1080.1 31174: 5.65 1/s
+1080.1 31510: 6.27 1/s
+1140.2 31507: 5.55 1/s
+1140.1 31856: 5.77 1/s
+1200.2 31843: 5.60 1/s
+1200.1 32175: 5.32 1/s
+1260.2 32161: 5.31 1/s
+1260.2 32476: 5.02 1/s
+1320.2 32467: 5.10 1/s
+1320.2 32797: 5.34 1/s
+1380.2 32767: 5.00 1/s
+1380.2 33147: 5.84 1/s
+1440.2 33087: 5.32 1/s
+1440.2 33481: 5.56 1/s
+1500.2 33407: 5.33 1/s
+1500.2 33753: 4.54 1/s
+1560.2 33678: 4.52 1/s
+1560.2 34044: 4.86 1/s
+1620.3 33957: 4.65 1/s
+1620.2 34315: 4.52 1/s
+1680.3 34189: 3.86 1/s
+1680.2 34559: 4.07 1/s
+1740.3 34450: 4.35 1/s
+1740.3 34831: 4.52 1/s
+1800.3 34696: 4.10 1/s
+1800.3 35046: 3.59 1/s
+1860.3 34944: 4.12 1/s
+1860.3 35319: 4.55 1/s
+1920.3 35207: 4.39 1/s
+1920.3 35579: 4.33 1/s
+1980.3 35434: 3.77 1/s
+1980.3 35806: 3.78 1/s
+2040.3 35698: 4.40 1/s
+2040.3 36060: 4.24 1/s
+2100.3 35930: 3.86 1/s
+2100.4 36278: 3.62 1/s
+2160.4 36153: 3.73 1/s
+2160.4 36503: 3.76 1/s
+2220.4 36376: 3.71 1/s
+2220.4 36723: 3.65 1/s
+2280.4 36607: 3.85 1/s
+2280.4 36961: 3.97 1/s
+2340.4 36811: 3.41 1/s
+2340.4 37161: 3.33 1/s
+2400.5 37034: 3.70 1/s
+2400.4 37393: 3.87 1/s
+2460.5 37270: 3.94 1/s
+2460.4 37595: 3.37 1/s
+2520.5 37490: 3.66 1/s
+2520.5 37821: 3.76 1/s
+2580.5 37699: 3.48 1/s
+2580.5 38010: 3.16 1/s
+2640.5 37880: 3.02 1/s
+2640.5 38217: 3.44 1/s
+2700.5 38073: 3.22 1/s
+2700.5 38412: 3.24 1/s
+2760.6 38269: 3.27 1/s
+2760.6 38634: 3.70 1/s
+2820.6 38472: 3.38 1/s
+2820.6 38822: 3.14 1/s
+2880.6 38686: 3.57 1/s
+2880.6 39015: 3.22 1/s
+2940.6 38877: 3.17 1/s
+2940.6 39196: 3.01 1/s
+3000.7 39075: 3.30 1/s
+3000.7 39385: 3.15 1/s
+3060.7 39249: 2.89 1/s
+3060.7 39582: 3.28 1/s
+3066.0 39600: 3.46 1/s
+Simulation done in 3065.82s
+---
+All done in 3067.42s
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.7', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 4/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+3120.7 39447: 3.30 1/s
+60.0 9662: 161.02 1/s
+3173.7 39600: 2.89 1/s
+Simulation done in 3173.53s
+---
+All done in 3175.24s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.1', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 6/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+120.0 16305: 110.72 1/s
+60.0 9627: 160.44 1/s
+180.0 20666: 72.68 1/s
+120.0 16246: 110.32 1/s
+240.0 22769: 35.04 1/s
+180.0 20652: 73.43 1/s
+300.0 24214: 24.08 1/s
+240.0 22799: 35.79 1/s
+360.0 25350: 18.94 1/s
+300.0 24270: 24.51 1/s
+420.0 26227: 14.61 1/s
+360.0 25380: 18.49 1/s
+480.0 26950: 12.05 1/s
+420.0 26247: 14.46 1/s
+540.0 27573: 10.38 1/s
+480.0 27004: 12.61 1/s
+600.0 28080: 8.45 1/s
+540.0 27644: 10.66 1/s
+660.0 28587: 8.46 1/s
+600.0 28122: 7.97 1/s
+720.1 29051: 7.72 1/s
+660.1 28577: 7.58 1/s
+780.1 29533: 8.03 1/s
+720.1 28990: 6.89 1/s
+840.1 29964: 7.20 1/s
+780.1 29473: 8.04 1/s
+900.1 30359: 6.58 1/s
+840.1 29911: 7.30 1/s
+960.1 30729: 6.17 1/s
+900.1 30307: 6.60 1/s
+1020.1 31100: 6.18 1/s
+960.1 30671: 6.06 1/s
+1080.1 31459: 5.98 1/s
+1020.1 31020: 5.82 1/s
+1140.2 31820: 6.00 1/s
+1080.1 31376: 5.94 1/s
+1200.2 32166: 5.78 1/s
+1140.2 31707: 5.52 1/s
+1260.2 32462: 4.93 1/s
+1200.2 32030: 5.37 1/s
+1320.2 32776: 5.22 1/s
+1260.2 32340: 5.18 1/s
+1380.2 33111: 5.59 1/s
+1320.2 32647: 5.11 1/s
+1440.2 33436: 5.43 1/s
+1380.2 32957: 5.17 1/s
+1500.2 33736: 4.99 1/s
+1440.2 33281: 5.40 1/s
+1560.2 34033: 4.95 1/s
+1500.2 33604: 5.39 1/s
+1620.2 34286: 4.21 1/s
+1560.2 33905: 5.00 1/s
+1680.2 34548: 4.37 1/s
+1620.2 34148: 4.05 1/s
+1740.2 34828: 4.68 1/s
+1680.2 34432: 4.73 1/s
+1800.3 35048: 3.66 1/s
+1740.2 34676: 4.07 1/s
+1860.3 35317: 4.48 1/s
+1800.3 34920: 4.07 1/s
+1920.3 35557: 4.00 1/s
+1860.3 35171: 4.19 1/s
+1980.3 35791: 3.91 1/s
+1920.3 35415: 4.06 1/s
+2040.3 36049: 4.29 1/s
+1980.3 35663: 4.15 1/s
+2100.4 36260: 3.53 1/s
+2040.3 35899: 3.93 1/s
+2160.4 36484: 3.72 1/s
+2100.3 36138: 3.99 1/s
+2220.4 36699: 3.59 1/s
+2160.4 36369: 3.84 1/s
+2280.4 36934: 3.91 1/s
+2220.4 36602: 3.89 1/s
+2340.4 37145: 3.52 1/s
+2280.4 36806: 3.39 1/s
+2400.4 37373: 3.79 1/s
+2340.4 37037: 3.85 1/s
+2460.4 37563: 3.17 1/s
+2400.4 37274: 3.95 1/s
+2520.4 37795: 3.86 1/s
+2460.4 37493: 3.65 1/s
+2580.5 37971: 2.94 1/s
+2520.5 37695: 3.36 1/s
+2640.5 38183: 3.54 1/s
+2580.5 37893: 3.31 1/s
+2700.5 38382: 3.31 1/s
+2640.5 38099: 3.43 1/s
+2760.5 38592: 3.51 1/s
+2700.5 38297: 3.30 1/s
+2820.5 38788: 3.26 1/s
+2760.5 38522: 3.74 1/s
+2880.6 38998: 3.50 1/s
+2820.5 38721: 3.32 1/s
+2940.6 39178: 2.99 1/s
+2880.6 38920: 3.32 1/s
+3000.6 39368: 3.16 1/s
+2940.6 39118: 3.29 1/s
+3060.7 39558: 3.17 1/s
+3074.4 39600: 3.02 1/s
+Simulation done in 3074.28s
+---
+All done in 3075.94s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 10/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+3000.6 39302: 3.08 1/s
+60.0 9629: 160.47 1/s
+3060.6 39510: 3.45 1/s
+3089.0 39600: 3.19 1/s
+Simulation done in 3088.87s
+---
+All done in 3090.43s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.5', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '2'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 21/60
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2'
+120.0 16206: 109.62 1/s
+60.0 9742: 162.36 1/s
+180.0 20617: 73.53 1/s
+120.0 16363: 110.35 1/s
+240.0 22750: 35.54 1/s
+180.0 20742: 72.99 1/s
+300.0 24249: 24.99 1/s
+240.0 22868: 35.43 1/s
+360.0 25347: 18.30 1/s
+300.0 24403: 25.58 1/s
+420.0 26211: 14.39 1/s
+360.0 25521: 18.63 1/s
+480.0 26968: 12.62 1/s
+420.0 26380: 14.31 1/s
+540.0 27612: 10.72 1/s
+480.0 27147: 12.80 1/s
+600.0 28109: 8.29 1/s
+540.0 27748: 10.00 1/s
+660.0 28583: 7.90 1/s
+690.1 28800: 7.22 1/s
+Simulation done in 689.99s
+---
+All done in 691.60s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+600.0 28254: 8.43 1/s
+660.0 28755: 8.36 1/s
+720.0 29286: 8.85 1/s
+780.1 29734: 7.46 1/s
+840.1 30142: 6.79 1/s
+900.1 30567: 7.08 1/s
+960.1 30961: 6.57 1/s
+1020.1 31303: 5.70 1/s
+1080.1 31636: 5.55 1/s
+1140.1 31981: 5.75 1/s
+1200.1 32290: 5.16 1/s
+1260.1 32604: 5.22 1/s
+1320.1 32975: 6.18 1/s
+1380.1 33332: 5.95 1/s
+1440.2 33679: 5.79 1/s
+1500.2 34033: 5.89 1/s
+1560.2 34320: 4.79 1/s
+1620.2 34603: 4.72 1/s
+1680.2 34878: 4.58 1/s
+1740.2 35160: 4.69 1/s
+1800.3 35409: 4.14 1/s
+1860.3 35676: 4.45 1/s
+1920.3 35943: 4.45 1/s
+1980.3 36178: 3.91 1/s
+2040.3 36436: 4.30 1/s
+2100.4 36687: 4.18 1/s
+2160.4 36964: 4.62 1/s
+2220.4 37236: 4.53 1/s
+2280.4 37508: 4.54 1/s
+2340.4 37777: 4.48 1/s
+2400.4 38012: 3.92 1/s
+2460.4 38278: 4.43 1/s
+2520.5 38549: 4.50 1/s
+2580.5 38808: 4.32 1/s
+2640.5 39070: 4.37 1/s
+2700.5 39303: 3.88 1/s
+2760.5 39593: 4.83 1/s
+2762.2 39600: 4.34 1/s
+Simulation done in 2762.09s
+---
+All done in 2763.78s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt

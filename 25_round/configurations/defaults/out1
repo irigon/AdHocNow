@@ -1,0 +1,818 @@
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Failed to load settings: core.SettingsError: prague1MetroTrue_settings.txt (No such file or directory)
+Caught at core.Settings.init(Settings.java:261)
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Failed to load settings: core.SettingsError: prague1MetroTrue_settings.txt (No such file or directory)
+Caught at core.Settings.init(Settings.java:261)
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Failed to load settings: core.SettingsError: prague1MetroTrue_settings.txt (No such file or directory)
+Caught at core.Settings.init(Settings.java:261)
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Failed to load settings: core.SettingsError: prague1MetroTrue_settings.txt (No such file or directory)
+Caught at core.Settings.init(Settings.java:261)
+/home/service/the-one-cgr/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10.5 28800: 2738.69 1/s
+Simulation done in 9.87s
+---
+All done in 11.45s
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space: failed reallocation of scalar replaced objects
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+11.0 28800: 2608.23 1/s
+Simulation done in 10.46s
+---
+All done in 11.96s
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space: failed reallocation of scalar replaced objects
+/home/service/the-one-cgr/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10% of contact plan concluded (516 contacts)
+24.5 28800: 1173.50 1/s
+Simulation done in 23.73s
+---
+All done in 25.72s
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10.3 28800: 2793.69 1/s
+Simulation done in 9.74s
+---
+All done in 11.24s
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space: failed reallocation of scalar replaced objects
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10.4 28800: 2763.13 1/s
+Simulation done in 9.79s
+---
+All done in 11.35s
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f9148000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55791.log
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f4f08000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55797.log
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f8bd7000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55803.log
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007fcfc0000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55809.log
+/home/service/the-one-cgr/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f002f000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55817.log
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f4fc4000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55823.log
+/home/service/the-one-cgr/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f8040000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55829.log
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007fc570000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55835.log
+/home/service/the-one-cgr/reports/helsinki1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f6d03000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55843.log
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007f145b000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55849.log
+/home/service/the-one-cgr/reports/helsinki1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007ef89c000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55855.log
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x00007ef2e4000000, 64424509440, 0) failed; error='Not enough space' (errno=12)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 64424509440 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /home/service/the-one-cgr/hs_err_pid55861.log
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms50G -Xmx50G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10.8 28800: 2658.06 1/s
+Simulation done in 10.22s
+---
+All done in 11.76s
+Picked up _JAVA_OPTIONS: -Xms50G -Xmx50G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+246.6 0: 0.00 1/s
+306.7 1337: 22.26 1/s
+366.8 3420: 34.69 1/s
+426.8 6355: 48.89 1/s
+487.4 9375: 49.85 1/s
+547.4 12485: 51.79 1/s
+607.4 15325: 47.33 1/s
+667.5 16910: 26.40 1/s
+734.2 17460: 8.23 1/s
+794.3 17828: 6.12 1/s
+854.3 18160: 5.54 1/s
+916.0 18660: 8.11 1/s
+976.0 19209: 9.15 1/s
+1036.1 19813: 10.04 1/s
+1096.2 20268: 7.58 1/s
+1157.4 20640: 6.08 1/s
+1217.5 21066: 7.09 1/s
+1280.2 21360: 4.69 1/s
+1340.2 21602: 4.03 1/s
+1400.3 21935: 5.54 1/s
+1460.4 22252: 5.27 1/s
+1520.4 22551: 4.99 1/s
+1581.2 22860: 5.08 1/s
+1641.3 23166: 5.09 1/s
+1701.3 23588: 7.03 1/s
+1761.3 24075: 8.11 1/s
+1821.4 24650: 9.58 1/s
+1881.4 25316: 11.07 1/s
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+1941.5 26319: 16.73 1/s
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+1975.4 28800: 73.09 1/s
+Simulation done in 1975.29s
+---
+All done in 1976.33s
+/home/service/the-one-cgr/reports/prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+11.0 28800: 2609.41 1/s
+Simulation done in 10.37s
+---
+All done in 11.96s
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+240.6 0: 0.00 1/s
+300.6 1410: 23.48 1/s
+360.6 3865: 40.91 1/s
+420.7 6845: 49.63 1/s
+480.8 9915: 51.09 1/s
+540.8 12985: 51.15 1/s
+600.9 15715: 45.44 1/s
+660.9 16796: 18.00 1/s
+721.0 17044: 4.12 1/s
+781.0 17279: 3.91 1/s
+841.8 17462: 3.01 1/s
+902.1 17642: 2.99 1/s
+962.1 17897: 4.25 1/s
+1022.1 18288: 6.52 1/s
+1082.2 18730: 7.36 1/s
+1142.3 19313: 9.70 1/s
+1202.3 19792: 7.99 1/s
+1262.3 20214: 7.02 1/s
+1322.4 20527: 5.21 1/s
+1382.4 20930: 6.72 1/s
+1442.4 21231: 5.01 1/s
+1502.5 21535: 5.07 1/s
+1562.5 21866: 5.51 1/s
+1626.3 22200: 5.24 1/s
+1686.3 22567: 6.11 1/s
+1746.3 22964: 6.63 1/s
+1806.4 23375: 6.84 1/s
+1866.4 23830: 7.58 1/s
+1926.4 24315: 8.08 1/s
+1986.5 25031: 11.92 1/s
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+2046.5 26047: 16.94 1/s
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+2079.5 28800: 83.54 1/s
+Simulation done in 2079.34s
+---
+All done in 2080.37s
+/home/service/the-one-cgr/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10% of contact plan concluded (516 contacts)
+24.2 28800: 1187.68 1/s
+Simulation done in 23.62s
+---
+All done in 25.44s
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+349.8 0: 0.00 1/s
+410.2 720: 11.92 1/s
+470.3 1725: 16.71 1/s
+530.5 2798: 17.83 1/s
+591.4 3720: 15.14 1/s
+651.5 5240: 25.32 1/s
+711.5 8170: 48.80 1/s
+771.5 11085: 48.56 1/s
+831.6 13965: 47.96 1/s
+891.7 16735: 46.09 1/s
+951.7 17702: 16.11 1/s
+1011.8 17995: 4.88 1/s
+1071.8 18294: 4.98 1/s
+1131.8 18467: 2.88 1/s
+1193.2 18660: 3.15 1/s
+1253.3 18847: 3.11 1/s
+1313.3 19078: 3.85 1/s
+1373.4 19266: 3.13 1/s
+1433.5 19490: 3.74 1/s
+1493.6 19835: 5.73 1/s
+1553.7 20205: 6.17 1/s
+1616.8 20520: 4.99 1/s
+1676.9 20989: 7.81 1/s
+1736.9 21350: 6.01 1/s
+1797.5 21780: 7.10 1/s
+1857.5 22135: 5.91 1/s
+1917.5 22417: 4.70 1/s
+1977.6 22730: 5.21 1/s
+2037.6 23078: 5.80 1/s
+2097.6 23565: 8.11 1/s
+2159.4 24120: 8.98 1/s
+2219.4 24675: 9.24 1/s
+2325.5 25380: 6.65 1/s
+2386.1 26058: 11.30 1/s
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+2421.7 28800: 77.11 1/s
+Simulation done in 2417.95s
+---
+All done in 2422.88s
+/home/service/the-one-cgr/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10% of contact plan concluded (516 contacts)
+30.0 28800: 958.50 1/s
+Simulation done in 29.31s
+---
+All done in 31.50s
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+356.0 0: 0.00 1/s
+416.4 720: 11.94 1/s
+476.4 1725: 16.74 1/s
+536.4 2805: 17.99 1/s
+596.5 3723: 15.28 1/s
+656.6 5340: 26.91 1/s
+716.7 8215: 47.86 1/s
+776.7 11025: 46.82 1/s
+836.7 13840: 46.88 1/s
+896.7 16569: 45.48 1/s
+962.1 17760: 18.21 1/s
+1022.2 18148: 6.45 1/s
+1082.2 18417: 4.48 1/s
+1142.3 18690: 4.55 1/s
+1206.1 18960: 4.24 1/s
+1266.1 19235: 4.58 1/s
+1326.2 19558: 5.37 1/s
+1386.2 19877: 5.31 1/s
+1446.3 20250: 6.23 1/s
+1506.3 20612: 6.03 1/s
+1566.4 21108: 8.25 1/s
+1626.6 21595: 8.09 1/s
+1686.6 22039: 7.39 1/s
+1746.7 22322: 4.72 1/s
+1806.7 22601: 4.64 1/s
+1866.7 22900: 4.98 1/s
+1926.7 23260: 6.01 1/s
+1986.8 23700: 7.33 1/s
+2046.8 24205: 8.41 1/s
+2106.9 24649: 7.39 1/s
+2170.6 25260: 9.59 1/s
+2230.6 26211: 15.84 1/s
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+Pivot could not be found. There is no route.
+2265.5 28800: 74.33 1/s
+Simulation done in 2265.34s
+---
+All done in 2266.75s
+/home/service/the-one-cgr/reports/helsinki1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10% of contact plan concluded (929 contacts)
+20% of contact plan concluded (2161 contacts)
+30% of contact plan concluded (2966 contacts)
+60.0 25342: 422.37 1/s
+72.8 28800: 270.93 1/s
+Simulation done in 71.55s
+---
+All done in 76.19s
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space: failed reallocation of scalar replaced objects
+/home/service/the-one-cgr/reports/helsinki1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10% of contact plan concluded (929 contacts)
+20% of contact plan concluded (2161 contacts)
+30% of contact plan concluded (2966 contacts)
+60.0 25048: 417.46 1/s
+73.6 28800: 275.82 1/s
+Simulation done in 72.42s
+---
+All done in 77.04s
+Picked up _JAVA_OPTIONS: -Xms60G -Xmx60G
+Started recording 1. The result will be written to:
+
+/home/service/the-one-cgr/myrecording.jfr
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ContactGraphRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space: failed reallocation of scalar replaced objects

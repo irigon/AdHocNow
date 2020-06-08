@@ -1,0 +1,20 @@
+Message stats for scenario helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1
+sim_time: 28800.1000
+created: 5760
+started: 1423590
+relayed: 1420557
+aborted: 2995
+dropped: 233244
+removed: 0
+delivered: 4691
+delivery_prob: 0.8144
+response_prob: 0.0000
+overhead_ratio: 301.8260
+latency_avg: 6096.0324
+latency_med: 3588.2000
+hopcount_avg: 5.1870
+hopcount_med: 5
+buffertime_avg: 15666.5705
+buffertime_med: 21740.6000
+rtt_avg: NaN
+rtt_med: NaN

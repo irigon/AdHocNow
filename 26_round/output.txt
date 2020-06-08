@@ -1,0 +1,135 @@
+/root/the-one-transit/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:300_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '300', 'Events1.size': '1M', 'MovementModel.warmup': '18800', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+/root/the-one-transit/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:500_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '500', 'Events1.size': '1M', 'MovementModel.warmup': '18800', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+/root/the-one-transit/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:700_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '700', 'Events1.size': '1M', 'MovementModel.warmup': '18800', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+/root/the-one-transit/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:600_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '600', 'Events1.size': '1M', 'MovementModel.warmup': '18800', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+/root/the-one-transit/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:600_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '600', 'Events1.size': '1M', 'MovementModel.warmup': '18800', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+/root/the-one-transit/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:600_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '600', 'Events1.size': '1M', 'MovementModel.warmup': '18800', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+/root/the-one-transit/reports/freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:600_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ContactGraphRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '600', 'Events1.size': '1M', 'MovementModel.warmup': '18800', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:600_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+0% of contact plan concluded (1 contacts)
+10% of contact plan concluded (641 contacts)
+51.1 39600: 775.58 1/s
+Simulation done in 49.67s
+---
+All done in 52.66s
+Started recording 1. The result will be written to:
+
+/root/the-one-transit/myrecording.jfr
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ContactGraphRouter_bSize:1000G_Ttl:600_Events1.size:1M_endTime:39600_warmup:18800_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80'
+1794.4 0: 0.00 1/s
+1919.9 60: 0.48 1/s
+1994.1 180: 1.62 1/s
+2054.3 550: 6.15 1/s
+2169.8 780: 1.99 1/s
+2251.0 1020: 2.95 1/s
+2311.1 1240: 3.66 1/s
+2371.3 1607: 6.10 1/s
+2431.3 1848: 4.01 1/s
+2491.5 2082: 3.89 1/s
+2551.9 2325: 4.03 1/s
+2632.1 2580: 3.18 1/s
+2692.4 2910: 5.47 1/s
+2752.7 3105: 3.23 1/s
+2812.8 3285: 2.99 1/s
+2873.0 3370: 1.42 1/s
+2933.2 3705: 5.56 1/s
+2993.4 3763: 0.97 1/s
+3053.7 4005: 4.02 1/s
+3113.8 4358: 5.87 1/s
+3173.9 4592: 3.89 1/s
+3234.0 5220: 10.45 1/s
+3294.2 5875: 10.89 1/s
+3354.5 6525: 10.77 1/s
+3414.8 7195: 11.12 1/s
+3474.9 7855: 10.97 1/s
+3534.9 8568: 11.89 1/s
+3595.1 9220: 10.82 1/s
+3655.1 9907: 11.44 1/s
+3715.4 10605: 11.60 1/s
+3775.4 11317: 11.87 1/s
+3835.4 12025: 11.79 1/s
+3895.5 12725: 11.65 1/s
+3955.5 13445: 11.98 1/s
+4016.1 14195: 12.38 1/s
+4076.3 14870: 11.22 1/s
+4136.4 15585: 11.90 1/s
+4196.8 16280: 11.51 1/s
+4257.1 16935: 10.86 1/s
+4317.7 17331: 6.53 1/s
+4391.0 17520: 2.58 1/s
+4451.1 17667: 2.44 1/s
+4514.6 17700: 0.53 1/s
+4642.2 17760: 0.47 1/s
+4702.5 17821: 1.01 1/s
+4890.5 17880: 0.31 1/s
+4950.8 17939: 0.98 1/s
+5332.0 18000: 0.16 1/s
+5392.5 18050: 0.83 1/s
+5658.7 18060: 0.04 1/s
+5718.9 18166: 1.76 1/s
+6155.5 18180: 0.03 1/s
+7009.0 18240: 0.07 1/s
+7082.7 18270: 0.41 1/s
+7146.5 18294: 0.37 1/s
+7206.9 18298: 0.07 1/s

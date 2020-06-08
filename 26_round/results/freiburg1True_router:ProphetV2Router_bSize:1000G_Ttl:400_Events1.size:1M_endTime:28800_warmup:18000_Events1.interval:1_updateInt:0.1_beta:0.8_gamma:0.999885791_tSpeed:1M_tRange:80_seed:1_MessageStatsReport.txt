@@ -1,0 +1,20 @@
+Message stats for scenario freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.8_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1
+sim_time: 28800.1000
+created: 28800
+started: 237405
+relayed: 232675
+aborted: 4692
+dropped: 56772
+removed: 0
+delivered: 10143
+delivery_prob: 0.3522
+response_prob: 0.0000
+overhead_ratio: 21.9395
+latency_avg: 9498.6913
+latency_med: 8663.4000
+hopcount_avg: 2.4632
+hopcount_med: 2
+buffertime_avg: 10728.6274
+buffertime_med: 5502.1000
+rtt_avg: NaN
+rtt_med: NaN

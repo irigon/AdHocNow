@@ -1,0 +1,30 @@
+/home/service/the-one-normal/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:86400_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '0', 'Scenario.endTime': '86400', 'Events1.interval': '90000', 'Scenario.updateInterval': '1.0', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 1/1
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:86400_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1'
+4.5 86400: 19307.26 1/s
+Simulation done in 4.35s
+---
+All done in 5.38s
+/home/service/the-one-normal/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:86400_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '0', 'Scenario.endTime': '86400', 'Events1.interval': '90000', 'Scenario.updateInterval': '1.0', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 1/1
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:86400_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1'
+10.0 86400: 8602.15 1/s
+Simulation done in 9.92s
+---
+All done in 11.19s

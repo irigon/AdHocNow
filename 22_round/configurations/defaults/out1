@@ -1,0 +1,168 @@
+/home/service/the-one-normal/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:90000_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '0', 'Scenario.endTime': '90000', 'Events1.interval': '90000', 'Scenario.updateInterval': '1.0', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 1/1
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:90000_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1'
+10.0 90000: 9037.05 1/s
+Simulation done in 9.86s
+---
+All done in 11.13s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:MaxPropRouterWithEstimation_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'MaxPropRouterWithEstimation', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 1/2
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+Can't start: error in configuration file(s)
+Can't find setting 'MaxPropRouterWithEstimation.timeScale'
+/home/service/the-one-normal/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 2/2
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1'
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1MetroTrue_router:MaxPropRouterWithEstimation_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'MaxPropRouterWithEstimation', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 2/2
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+Can't start: error in configuration file(s)
+Can't find setting 'MaxPropRouterWithEstimation.timeScale'
+60.0 20876: 347.93 1/s
+120.0 25408: 75.52 1/s
+180.0 28023: 43.59 1/s
+203.3 28800: 33.30 1/s
+Simulation done in 203.24s
+---
+All done in 204.30s
+/home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'MaxPropRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 1/6
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1'
+60.0 4270: 71.16 1/s
+120.0 8848: 76.30 1/s
+180.0 12153: 55.09 1/s
+240.0 15128: 49.58 1/s
+300.0 17583: 40.92 1/s
+360.0 17919: 5.60 1/s
+420.1 18173: 4.23 1/s
+480.2 18370: 3.27 1/s
+540.3 18754: 6.39 1/s
+600.3 18905: 2.53 1/s
+660.4 19022: 1.93 1/s
+720.5 19137: 1.92 1/s
+780.7 19264: 2.11 1/s
+840.7 19339: 1.24 1/s
+900.9 19459: 1.99 1/s
+961.0 19586: 2.11 1/s
+1021.2 19683: 1.62 1/s
+1081.3 19801: 1.96 1/s
+1141.5 19870: 1.15 1/s
+1201.5 19921: 0.84 1/s
+1261.6 19946: 0.43 1/s
+1321.6 20021: 1.24 1/s
+1381.8 20064: 0.72 1/s
+1442.2 20158: 1.56 1/s
+1502.2 20225: 1.11 1/s
+1562.6 20277: 0.87 1/s
+1622.7 20300: 0.37 1/s
+1682.7 20454: 2.57 1/s
+1742.7 20521: 1.11 1/s
+1802.7 20694: 2.89 1/s
+1862.8 20756: 1.02 1/s
+1922.8 20814: 0.98 1/s
+1982.8 20866: 0.86 1/s
+2042.8 20946: 1.34 1/s
+2102.9 21002: 0.93 1/s
+2162.9 21059: 0.94 1/s
+2223.0 21112: 0.89 1/s
+2283.1 21149: 0.62 1/s
+2343.7 21179: 0.49 1/s
+2403.8 21200: 0.36 1/s
+2464.1 21238: 0.62 1/s
+2524.7 21359: 2.00 1/s
+2585.0 21371: 0.20 1/s
+2645.2 21390: 0.31 1/s
+2705.3 21484: 1.57 1/s
+2765.6 21539: 0.91 1/s
+2825.8 21557: 0.29 1/s
+2886.1 21621: 1.06 1/s
+2946.2 21685: 1.08 1/s
+3006.2 21732: 0.77 1/s
+3066.3 21834: 1.71 1/s
+3126.4 21916: 1.36 1/s
+3186.6 21958: 0.70 1/s
+3246.6 21982: 0.40 1/s
+3306.8 22048: 1.09 1/s
+3367.1 22106: 0.97 1/s
+3427.2 22141: 0.58 1/s
+3487.2 22247: 1.76 1/s
+3547.8 22316: 1.13 1/s
+3608.6 22327: 0.18 1/s
+3668.8 22345: 0.30 1/s
+3729.2 22440: 1.58 1/s
+3789.2 22471: 0.51 1/s
+3849.4 22622: 2.51 1/s
+3909.5 22660: 0.64 1/s
+3969.5 22718: 0.96 1/s
+4029.7 22805: 1.45 1/s
+4089.8 22881: 1.27 1/s
+4149.8 22972: 1.50 1/s
+4210.4 22994: 0.37 1/s
+4270.4 23022: 0.46 1/s
+4330.4 23130: 1.80 1/s
+4390.4 23190: 1.01 1/s
+4451.2 23227: 0.61 1/s
+4511.2 23280: 0.87 1/s
+4571.3 23365: 1.42 1/s
+4631.9 23459: 1.55 1/s
+4691.9 23477: 0.29 1/s
+4751.9 23644: 2.78 1/s
+4812.0 23823: 2.98 1/s
+4872.2 23970: 2.44 1/s
+4932.2 24181: 3.51 1/s
+4992.2 24311: 2.18 1/s
+5052.2 24470: 2.64 1/s
+5112.4 24607: 2.27 1/s
+5172.5 24842: 3.92 1/s
+5232.7 25018: 2.93 1/s
+5292.7 25204: 3.10 1/s
+5352.7 25368: 2.73 1/s
+5412.8 25568: 3.33 1/s
+5472.8 25888: 5.33 1/s
+5532.8 26320: 7.20 1/s
+5592.8 26814: 8.23 1/s
+5652.8 27346: 8.87 1/s
+5712.8 27857: 8.51 1/s
+5772.9 28338: 8.01 1/s
+5832.9 28735: 6.62 1/s
+5842.5 28800: 6.80 1/s
+Simulation done in 5840.97s
+---
+All done in 5843.76s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt

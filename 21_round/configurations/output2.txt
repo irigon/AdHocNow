@@ -1,0 +1,42 @@
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 1/2
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23593: 393.20 1/s
+120.0 26740: 52.45 1/s
+180.0 28666: 32.11 1/s
+184.6 28800: 29.08 1/s
+Simulation done in 184.54s
+---
+All done in 185.57s
+/home/service/the-one-normal/reports/prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 2/2
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 23636: 393.92 1/s
+120.0 26856: 53.68 1/s
+180.0 28864: 33.46 1/s
+240.0 30373: 25.14 1/s
+300.0 31418: 17.42 1/s
+360.0 32406: 16.47 1/s
+420.0 33271: 14.42 1/s
+480.0 34211: 15.66 1/s
+540.0 35158: 15.78 1/s
+600.0 36143: 16.41 1/s
+660.0 37099: 15.93 1/s
+720.0 38017: 15.31 1/s
+780.1 38883: 14.44 1/s
+830.6 39600: 14.18 1/s
+Simulation done in 830.47s
+---
+All done in 831.52s

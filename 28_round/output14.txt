@@ -1,0 +1,205 @@
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+/root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '3', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1MetroTrue_settings.txt']
+Percent: 2/12
+Run 1/1
+32 in line defined by file data/prague1MetroTrue/A_schedule.csv
+31 in line defined by file data/prague1MetroTrue/B_schedule.csv
+43 in line defined by file data/prague1MetroTrue/C_schedule.csv
+Running simulation 'prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1'
+60.0 10692: 178.19 1/s
+120.0 17577: 114.75 1/s
+180.0 18993: 23.60 1/s
+240.0 19781: 13.14 1/s
+300.0 20321: 8.99 1/s
+360.0 20766: 7.41 1/s
+420.0 21116: 5.84 1/s
+480.0 21470: 5.90 1/s
+540.1 21772: 5.02 1/s
+600.1 22048: 4.61 1/s
+660.1 22315: 4.44 1/s
+720.1 22556: 4.01 1/s
+780.1 22798: 4.05 1/s
+840.1 23027: 3.80 1/s
+900.2 23219: 3.21 1/s
+960.2 23400: 3.01 1/s
+1020.2 23551: 2.53 1/s
+1080.2 23720: 2.81 1/s
+1140.3 23859: 2.31 1/s
+1200.3 23994: 2.26 1/s
+1260.3 24119: 2.07 1/s
+1320.3 24252: 2.22 1/s
+1380.3 24394: 2.36 1/s
+1440.4 24516: 2.05 1/s
+1500.4 24636: 2.00 1/s
+1560.5 24762: 2.09 1/s
+1620.5 24887: 2.09 1/s
+1680.5 24984: 1.62 1/s
+1740.5 25097: 1.88 1/s
+1800.6 25203: 1.75 1/s
+1860.6 25321: 1.97 1/s
+1920.7 25428: 1.78 1/s
+1980.7 25539: 1.84 1/s
+2040.7 25640: 1.69 1/s
+2100.7 25742: 1.69 1/s
+2160.8 25837: 1.59 1/s
+2220.8 25924: 1.45 1/s
+2280.8 26000: 1.27 1/s
+2340.8 26083: 1.38 1/s
+2400.9 26166: 1.38 1/s
+2460.9 26235: 1.16 1/s
+2520.9 26316: 1.34 1/s
+2581.0 26401: 1.42 1/s
+2641.0 26472: 1.17 1/s
+2701.1 26539: 1.13 1/s
+2761.1 26612: 1.21 1/s
+2821.2 26687: 1.25 1/s
+2881.2 26759: 1.20 1/s
+2941.3 26823: 1.07 1/s
+3001.4 26888: 1.08 1/s
+3061.5 26951: 1.05 1/s
+3121.5 27028: 1.28 1/s
+3181.6 27101: 1.21 1/s
+3241.6 27155: 0.91 1/s
+3301.7 27217: 1.03 1/s
+3361.7 27278: 1.01 1/s
+3421.8 27344: 1.10 1/s
+3481.8 27398: 0.91 1/s
+3541.8 27461: 1.04 1/s
+3601.9 27521: 1.01 1/s
+3661.9 27581: 0.99 1/s
+3721.9 27643: 1.04 1/s
+3781.9 27693: 0.82 1/s
+3842.0 27758: 1.09 1/s
+3902.1 27832: 1.23 1/s
+3962.1 27893: 1.01 1/s
+4022.1 27953: 0.99 1/s
+4082.2 28008: 0.92 1/s
+4142.3 28058: 0.83 1/s
+4202.3 28118: 1.00 1/s
+4262.3 28180: 1.04 1/s
+4322.3 28237: 0.94 1/s
+4382.3 28294: 0.95 1/s
+4442.4 28344: 0.83 1/s
+4502.4 28396: 0.88 1/s
+4562.5 28456: 0.99 1/s
+4622.5 28517: 1.02 1/s
+4682.7 28568: 0.85 1/s
+4742.8 28615: 0.78 1/s
+4802.8 28667: 0.87 1/s
+4862.9 28728: 1.01 1/s
+4923.0 28782: 0.91 1/s
+4940.3 28800: 1.04 1/s
+Simulation done in 4939.94s
+---
+All done in 4941.74s
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 4/12
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1'
+60.0 4590: 76.50 1/s
+120.0 6653: 34.37 1/s
+180.0 8596: 32.39 1/s
+240.0 10459: 31.04 1/s
+300.0 12224: 29.42 1/s
+360.0 13929: 28.41 1/s
+420.0 15574: 27.43 1/s
+480.0 17162: 26.46 1/s
+540.0 18735: 26.21 1/s
+600.0 20126: 23.19 1/s
+660.0 21069: 15.71 1/s
+720.0 21778: 11.82 1/s
+780.1 22410: 10.53 1/s
+840.1 23012: 10.04 1/s
+900.1 23451: 7.31 1/s
+960.1 24104: 10.88 1/s
+1020.1 24698: 9.90 1/s
+1080.1 25294: 9.94 1/s
+1140.1 25823: 8.80 1/s
+1200.1 26422: 9.99 1/s
+1260.1 26968: 9.09 1/s
+1320.1 27424: 7.61 1/s
+1380.1 27791: 6.11 1/s
+1440.1 28163: 6.20 1/s
+1500.1 28575: 6.86 1/s
+1534.8 28800: 6.50 1/s
+Simulation done in 1534.55s
+---
+All done in 1537.17s
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/prague1MetroTrue_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt

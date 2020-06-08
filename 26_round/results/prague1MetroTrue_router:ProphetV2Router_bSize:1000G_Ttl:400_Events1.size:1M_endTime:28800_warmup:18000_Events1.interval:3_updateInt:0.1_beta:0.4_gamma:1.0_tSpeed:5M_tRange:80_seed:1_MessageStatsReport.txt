@@ -1,0 +1,20 @@
+Message stats for scenario prague1MetroTrue_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:5M_tRange:80_seed:1
+sim_time: 28800.1000
+created: 9600
+started: 357864
+relayed: 356379
+aborted: 1475
+dropped: 56246
+removed: 0
+delivered: 8320
+delivery_prob: 0.8667
+response_prob: 0.0000
+overhead_ratio: 41.8340
+latency_avg: 8498.9105
+latency_med: 7346.9000
+hopcount_avg: 3.4190
+hopcount_med: 4
+buffertime_avg: 6328.5806
+buffertime_med: 4074.8000
+rtt_avg: NaN
+rtt_med: NaN

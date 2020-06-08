@@ -1,0 +1,36 @@
+/home/service/the-one-normal/reports/prague1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:86400_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '0', 'Scenario.endTime': '86400', 'Events1.interval': '90000', 'Scenario.updateInterval': '1.0', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1True_settings.txt']
+Percent: 1/1
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+39 in line defined by file data/prague1True/1_schedule.csv
+18 in line defined by file data/prague1True/2_schedule.csv
+49 in line defined by file data/prague1True/3_schedule.csv
+12 in line defined by file data/prague1True/4_schedule.csv
+20 in line defined by file data/prague1True/5_schedule.csv
+18 in line defined by file data/prague1True/6_schedule.csv
+21 in line defined by file data/prague1True/7_schedule.csv
+16 in line defined by file data/prague1True/8_schedule.csv
+51 in line defined by file data/prague1True/9_schedule.csv
+33 in line defined by file data/prague1True/10_schedule.csv
+17 in line defined by file data/prague1True/11_schedule.csv
+18 in line defined by file data/prague1True/12_schedule.csv
+17 in line defined by file data/prague1True/13_schedule.csv
+17 in line defined by file data/prague1True/14_schedule.csv
+16 in line defined by file data/prague1True/15_schedule.csv
+19 in line defined by file data/prague1True/16_schedule.csv
+50 in line defined by file data/prague1True/17_schedule.csv
+13 in line defined by file data/prague1True/18_schedule.csv
+27 in line defined by file data/prague1True/20_schedule.csv
+19 in line defined by file data/prague1True/21_schedule.csv
+129 in line defined by file data/prague1True/22_schedule.csv
+15 in line defined by file data/prague1True/24_schedule.csv
+22 in line defined by file data/prague1True/25_schedule.csv
+25 in line defined by file data/prague1True/26_schedule.csv
+Running simulation 'prague1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:86400_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1'
+60.0 78691: 1311.49 1/s
+65.8 86400: 1340.46 1/s
+Simulation done in 65.64s
+---
+All done in 88.16s

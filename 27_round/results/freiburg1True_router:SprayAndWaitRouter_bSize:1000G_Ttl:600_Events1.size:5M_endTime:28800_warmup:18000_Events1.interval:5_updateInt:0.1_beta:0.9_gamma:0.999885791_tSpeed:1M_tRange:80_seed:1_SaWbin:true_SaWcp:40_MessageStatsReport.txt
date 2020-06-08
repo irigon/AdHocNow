@@ -1,0 +1,20 @@
+Message stats for scenario freiburg1True_router:SprayAndWaitRouter_bSize:1000G_Ttl:600_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_SaWbin:true_SaWcp:40
+sim_time: 28800.1000
+created: 5760
+started: 55386
+relayed: 50096
+aborted: 5233
+dropped: 0
+removed: 0
+delivered: 1813
+delivery_prob: 0.3148
+response_prob: 0.0000
+overhead_ratio: 26.6315
+latency_avg: 11171.3971
+latency_med: 10951.1000
+hopcount_avg: 2.7082
+hopcount_med: 2
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN

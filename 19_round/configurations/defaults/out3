@@ -1,0 +1,1218 @@
+cities.cfg: command not found
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '3'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 1/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 4085: 68.09 1/s
+120.0 5338: 20.86 1/s
+180.0 6161: 13.73 1/s
+240.0 6833: 11.19 1/s
+300.0 7492: 10.99 1/s
+360.0 8088: 9.93 1/s
+420.0 8683: 9.92 1/s
+480.0 9243: 9.33 1/s
+540.0 9788: 9.08 1/s
+600.0 10326: 8.97 1/s
+660.1 10862: 8.92 1/s
+720.1 11414: 9.19 1/s
+780.1 11939: 8.76 1/s
+840.1 12457: 8.63 1/s
+900.1 12978: 8.69 1/s
+960.1 13506: 8.79 1/s
+1020.1 14033: 8.79 1/s
+1080.1 14566: 8.88 1/s
+1140.1 15047: 8.02 1/s
+1200.1 15603: 9.27 1/s
+1260.1 16087: 8.06 1/s
+1320.1 16576: 8.15 1/s
+1380.1 17062: 8.11 1/s
+1440.1 17536: 7.90 1/s
+1500.1 18032: 8.26 1/s
+1560.2 18530: 8.29 1/s
+1620.2 19042: 8.54 1/s
+1680.2 19530: 8.13 1/s
+1740.2 20005: 7.91 1/s
+1800.2 20422: 6.96 1/s
+1860.2 20829: 6.78 1/s
+1920.2 21198: 6.15 1/s
+1980.2 21562: 6.06 1/s
+2040.2 21871: 5.14 1/s
+2100.2 22175: 5.06 1/s
+2160.2 22457: 4.70 1/s
+2220.2 22705: 4.14 1/s
+2280.3 22965: 4.34 1/s
+2340.3 23213: 4.14 1/s
+2400.3 23434: 3.67 1/s
+2460.3 23658: 3.74 1/s
+2520.3 23867: 3.48 1/s
+2580.3 24057: 3.17 1/s
+2640.3 24263: 3.43 1/s
+2700.3 24436: 2.89 1/s
+2760.4 24615: 2.97 1/s
+2820.4 24799: 3.07 1/s
+2880.4 24992: 3.22 1/s
+2940.4 25164: 2.87 1/s
+3000.4 25343: 2.98 1/s
+3060.4 25526: 3.05 1/s
+3120.5 25695: 2.81 1/s
+3180.5 25856: 2.68 1/s
+3240.5 26027: 2.85 1/s
+3300.5 26202: 2.91 1/s
+3360.5 26361: 2.66 1/s
+3420.6 26509: 2.46 1/s
+3480.6 26672: 2.71 1/s
+3540.6 26832: 2.67 1/s
+3600.6 26973: 2.35 1/s
+3660.6 27111: 2.29 1/s
+3720.7 27249: 2.30 1/s
+3780.7 27391: 2.37 1/s
+3840.7 27526: 2.24 1/s
+3900.7 27655: 2.16 1/s
+3960.7 27783: 2.13 1/s
+4020.8 27913: 2.16 1/s
+4080.8 28040: 2.12 1/s
+4140.8 28154: 1.89 1/s
+4200.9 28265: 1.85 1/s
+4260.9 28385: 2.01 1/s
+4320.9 28510: 2.08 1/s
+4380.9 28625: 1.91 1/s
+4440.9 28731: 1.76 1/s
+4480.6 28800: 1.74 1/s
+Simulation done in 4480.45s
+---
+All done in 4483.68s
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.4', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 2/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 4088: 68.13 1/s
+120.0 5515: 23.78 1/s
+180.0 6477: 16.04 1/s
+240.0 7328: 14.18 1/s
+300.0 8007: 11.31 1/s
+360.0 8676: 11.15 1/s
+420.0 9305: 10.49 1/s
+480.0 9934: 10.48 1/s
+540.0 10542: 10.13 1/s
+600.0 11144: 10.03 1/s
+660.0 11754: 10.16 1/s
+720.1 12334: 9.66 1/s
+780.1 12948: 10.23 1/s
+840.1 13553: 10.09 1/s
+900.1 14118: 9.43 1/s
+960.1 14667: 9.14 1/s
+1020.1 15218: 9.18 1/s
+1080.1 15758: 9.00 1/s
+1140.1 16307: 9.15 1/s
+1200.1 16851: 9.07 1/s
+1260.1 17416: 9.42 1/s
+1320.1 17959: 9.04 1/s
+1380.1 18504: 9.09 1/s
+1440.1 19101: 9.94 1/s
+1500.1 19635: 8.91 1/s
+1560.2 20127: 8.20 1/s
+1620.2 20557: 7.16 1/s
+1680.2 20954: 6.63 1/s
+1740.2 21311: 5.95 1/s
+1800.2 21653: 5.70 1/s
+1860.2 21942: 4.81 1/s
+1920.2 22242: 5.00 1/s
+1980.2 22507: 4.41 1/s
+2040.2 22755: 4.13 1/s
+2100.3 23002: 4.12 1/s
+2160.3 23229: 3.78 1/s
+2220.3 23441: 3.53 1/s
+2280.3 23655: 3.57 1/s
+2340.3 23863: 3.47 1/s
+2400.3 24051: 3.13 1/s
+2460.4 24254: 3.38 1/s
+2520.4 24429: 2.93 1/s
+2580.4 24608: 2.97 1/s
+2640.4 24794: 3.10 1/s
+2700.4 24987: 3.22 1/s
+2760.4 25165: 2.96 1/s
+2820.5 25340: 2.92 1/s
+2880.5 25512: 2.87 1/s
+2940.5 25675: 2.72 1/s
+3000.6 25838: 2.72 1/s
+3060.6 26010: 2.85 1/s
+3120.6 26182: 2.87 1/s
+3180.6 26342: 2.67 1/s
+3240.6 26484: 2.36 1/s
+3300.7 26637: 2.55 1/s
+3360.7 26798: 2.68 1/s
+3420.7 26939: 2.35 1/s
+3480.7 27070: 2.18 1/s
+3540.7 27205: 2.26 1/s
+3600.8 27350: 2.41 1/s
+3660.8 27477: 2.12 1/s
+3720.8 27603: 2.09 1/s
+3780.9 27733: 2.17 1/s
+3840.9 27861: 2.13 1/s
+3900.9 27995: 2.23 1/s
+3961.0 28109: 1.90 1/s
+4021.0 28217: 1.81 1/s
+4081.0 28334: 1.94 1/s
+4141.0 28451: 1.96 1/s
+4201.1 28568: 1.95 1/s
+4261.2 28684: 1.93 1/s
+4321.2 28787: 1.72 1/s
+4328.3 28800: 1.79 1/s
+Simulation done in 4328.15s
+---
+All done in 4331.66s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.8', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'seed': '2'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 4/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 4097: 68.28 1/s
+120.0 5511: 23.57 1/s
+180.0 6510: 16.65 1/s
+240.0 7377: 14.45 1/s
+300.0 8098: 12.01 1/s
+360.0 8810: 11.88 1/s
+420.0 9461: 10.84 1/s
+480.0 10135: 11.25 1/s
+540.0 10802: 11.12 1/s
+600.1 11389: 9.78 1/s
+660.1 11982: 9.87 1/s
+720.1 12638: 10.93 1/s
+780.1 13257: 10.32 1/s
+840.1 13859: 10.04 1/s
+900.1 14445: 9.77 1/s
+960.1 15003: 9.29 1/s
+1020.1 15562: 9.33 1/s
+1080.1 16149: 9.77 1/s
+1140.1 16734: 9.76 1/s
+1200.1 17326: 9.87 1/s
+1260.1 17902: 9.60 1/s
+1320.1 18490: 9.80 1/s
+1380.1 19011: 8.68 1/s
+1440.1 19532: 8.68 1/s
+1500.1 20018: 8.10 1/s
+1560.2 20472: 7.56 1/s
+1620.2 20891: 6.99 1/s
+1680.2 21262: 6.18 1/s
+1740.2 21608: 5.77 1/s
+1800.2 21907: 4.98 1/s
+1860.2 22207: 5.00 1/s
+1920.2 22487: 4.66 1/s
+1980.3 22729: 4.03 1/s
+2040.3 22977: 4.14 1/s
+2100.3 23206: 3.81 1/s
+2160.3 23416: 3.51 1/s
+2220.3 23626: 3.48 1/s
+2280.3 23830: 3.40 1/s
+2340.3 24019: 3.15 1/s
+2400.4 24216: 3.28 1/s
+2460.4 24404: 3.14 1/s
+2520.4 24587: 3.04 1/s
+2580.4 24766: 2.99 1/s
+2640.4 24957: 3.18 1/s
+2700.5 25133: 2.92 1/s
+2760.5 25308: 2.92 1/s
+2820.5 25481: 2.89 1/s
+2880.5 25646: 2.75 1/s
+2940.5 25809: 2.70 1/s
+3000.6 25975: 2.78 1/s
+3060.6 26149: 2.89 1/s
+3120.6 26309: 2.66 1/s
+3180.6 26455: 2.45 1/s
+3240.6 26607: 2.53 1/s
+3300.6 26777: 2.82 1/s
+3360.7 26932: 2.58 1/s
+3420.7 27070: 2.30 1/s
+3480.7 27206: 2.27 1/s
+3540.7 27354: 2.47 1/s
+3600.7 27490: 2.26 1/s
+3660.8 27616: 2.10 1/s
+3720.8 27748: 2.21 1/s
+3780.8 27876: 2.13 1/s
+3840.8 28011: 2.25 1/s
+3900.8 28135: 2.06 1/s
+3960.9 28249: 1.89 1/s
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.7', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 0/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+60.0 3941: 65.68 1/s
+120.0 5161: 20.34 1/s
+180.0 6031: 14.49 1/s
+240.0 6710: 11.32 1/s
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '1.0', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 1/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 3933: 65.56 1/s
+120.0 5171: 20.62 1/s
+180.0 6050: 14.66 1/s
+240.0 6774: 12.06 1/s
+300.0 7463: 11.48 1/s
+360.0 8070: 10.13 1/s
+420.0 8658: 9.80 1/s
+480.0 9216: 9.30 1/s
+540.0 9741: 8.75 1/s
+600.1 10260: 8.64 1/s
+660.1 10766: 8.43 1/s
+720.1 11282: 8.60 1/s
+780.1 11810: 8.80 1/s
+840.1 12337: 8.78 1/s
+900.1 12855: 8.63 1/s
+960.1 13369: 8.57 1/s
+1020.1 13871: 8.36 1/s
+1080.1 14379: 8.47 1/s
+1140.1 14887: 8.47 1/s
+1200.1 15396: 8.48 1/s
+1260.1 15892: 8.26 1/s
+1320.1 16411: 8.66 1/s
+1380.1 16911: 8.33 1/s
+1440.1 17396: 8.08 1/s
+1500.2 17862: 7.77 1/s
+1560.2 18330: 7.80 1/s
+1620.2 18807: 7.95 1/s
+1680.2 19291: 8.07 1/s
+1740.2 19739: 7.47 1/s
+1800.2 20171: 7.19 1/s
+1860.2 20581: 6.84 1/s
+1920.2 20974: 6.55 1/s
+1980.2 21324: 5.83 1/s
+2040.2 21656: 5.54 1/s
+2100.2 21948: 4.86 1/s
+2160.2 22238: 4.83 1/s
+2220.2 22501: 4.39 1/s
+2280.3 22745: 4.06 1/s
+2340.3 22992: 4.12 1/s
+2400.3 23216: 3.74 1/s
+2460.3 23422: 3.42 1/s
+2520.3 23635: 3.56 1/s
+2580.3 23836: 3.34 1/s
+2640.4 24027: 3.19 1/s
+2700.4 24233: 3.44 1/s
+2760.4 24420: 3.11 1/s
+2820.4 24616: 3.27 1/s
+2880.4 24800: 3.07 1/s
+2940.5 24989: 3.13 1/s
+3000.5 25161: 2.87 1/s
+3060.5 25336: 2.92 1/s
+3120.5 25520: 3.06 1/s
+3180.5 25686: 2.77 1/s
+3240.6 25850: 2.73 1/s
+3300.6 26026: 2.93 1/s
+3360.6 26203: 2.95 1/s
+3420.7 26358: 2.58 1/s
+3480.7 26506: 2.47 1/s
+3540.7 26662: 2.59 1/s
+3600.7 26828: 2.78 1/s
+3660.8 26983: 2.58 1/s
+3720.8 27135: 2.54 1/s
+3780.8 27285: 2.49 1/s
+3840.8 27431: 2.44 1/s
+3900.9 27570: 2.32 1/s
+3960.9 27713: 2.37 1/s
+4020.9 27853: 2.34 1/s
+4080.9 27993: 2.32 1/s
+4141.0 28125: 2.20 1/s
+4201.0 28241: 1.93 1/s
+4261.0 28368: 2.12 1/s
+4321.0 28502: 2.23 1/s
+4381.1 28630: 2.14 1/s
+4441.1 28751: 2.00 1/s
+4469.7 28800: 1.73 1/s
+Simulation done in 4469.57s
+---
+All done in 4472.84s
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.8', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 2/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 4097: 68.29 1/s
+120.0 5545: 24.13 1/s
+180.0 6448: 15.04 1/s
+240.0 7188: 12.34 1/s
+300.0 7848: 10.99 1/s
+360.0 8479: 10.52 1/s
+420.0 9141: 11.02 1/s
+480.0 9746: 10.09 1/s
+540.1 10425: 11.32 1/s
+600.1 11005: 9.66 1/s
+660.1 11630: 10.42 1/s
+720.1 12198: 9.45 1/s
+780.1 12769: 9.52 1/s
+840.1 13350: 9.68 1/s
+900.1 13901: 9.18 1/s
+960.1 14426: 8.76 1/s
+1020.1 14966: 9.00 1/s
+1080.1 15572: 10.08 1/s
+1140.1 16109: 8.96 1/s
+1200.1 16603: 8.23 1/s
+1260.2 17113: 8.49 1/s
+1320.2 17605: 8.21 1/s
+1380.2 18120: 8.57 1/s
+1440.2 18683: 9.39 1/s
+1500.2 19277: 9.89 1/s
+1560.2 19741: 7.73 1/s
+1620.2 20184: 7.38 1/s
+1680.2 20605: 7.02 1/s
+1740.2 20990: 6.43 1/s
+1800.2 21339: 5.82 1/s
+1860.2 21660: 5.34 1/s
+1920.2 21940: 4.66 1/s
+1980.3 22226: 4.77 1/s
+2040.3 22490: 4.40 1/s
+2100.3 22727: 3.95 1/s
+2160.3 22969: 4.04 1/s
+2220.3 23196: 3.79 1/s
+2280.3 23399: 3.38 1/s
+2340.3 23615: 3.60 1/s
+2400.3 23820: 3.41 1/s
+2460.4 24012: 3.20 1/s
+2520.4 24221: 3.49 1/s
+2580.4 24398: 2.95 1/s
+2640.4 24576: 2.96 1/s
+2700.4 24751: 2.92 1/s
+2760.5 24939: 3.13 1/s
+2820.5 25124: 3.09 1/s
+2880.5 25299: 2.92 1/s
+2940.5 25477: 2.96 1/s
+3000.5 25645: 2.79 1/s
+3060.6 25803: 2.64 1/s
+3120.6 25968: 2.74 1/s
+3180.6 26142: 2.90 1/s
+3240.6 26309: 2.79 1/s
+3300.7 26459: 2.50 1/s
+3360.7 26608: 2.48 1/s
+3420.7 26768: 2.66 1/s
+3480.7 26925: 2.62 1/s
+3540.7 27070: 2.42 1/s
+3600.7 27208: 2.30 1/s
+3660.8 27356: 2.47 1/s
+3720.8 27492: 2.25 1/s
+3780.8 27624: 2.21 1/s
+3840.8 27756: 2.19 1/s
+3900.9 27891: 2.25 1/s
+3960.9 28020: 2.15 1/s
+4020.9 28137: 1.95 1/s
+4081.0 28252: 1.92 1/s
+4141.0 28370: 1.96 1/s
+4201.1 28503: 2.20 1/s
+4261.1 28629: 2.11 1/s
+4321.2 28742: 1.88 1/s
+4381.2 28856: 1.91 1/s
+4441.2 28970: 1.90 1/s
+4501.2 29094: 2.07 1/s
+4561.2 29203: 1.80 1/s
+4621.3 29309: 1.78 1/s
+4681.3 29417: 1.79 1/s
+4741.4 29522: 1.75 1/s
+4801.4 29631: 1.82 1/s
+4861.4 29749: 1.97 1/s
+4921.5 29853: 1.73 1/s
+4981.5 29951: 1.63 1/s
+5041.5 30046: 1.59 1/s
+5101.6 30143: 1.62 1/s
+5161.6 30251: 1.80 1/s
+5221.6 30359: 1.79 1/s
+5281.6 30460: 1.68 1/s
+5341.7 30550: 1.50 1/s
+5401.7 30639: 1.48 1/s
+5461.7 30731: 1.54 1/s
+5521.7 30824: 1.55 1/s
+5581.8 30917: 1.55 1/s
+5641.9 31008: 1.51 1/s
+5701.9 31091: 1.38 1/s
+5761.9 31175: 1.41 1/s
+5821.9 31262: 1.45 1/s
+5882.0 31345: 1.38 1/s
+5942.0 31437: 1.54 1/s
+6002.1 31526: 1.48 1/s
+6062.1 31609: 1.37 1/s
+6122.1 31687: 1.30 1/s
+6182.2 31764: 1.28 1/s
+6242.2 31846: 1.37 1/s
+6302.2 31930: 1.40 1/s
+6362.3 32010: 1.33 1/s
+6422.3 32096: 1.44 1/s
+6482.4 32181: 1.41 1/s
+6542.4 32257: 1.26 1/s
+6602.4 32330: 1.21 1/s
+6662.5 32406: 1.27 1/s
+6722.5 32480: 1.23 1/s
+6782.5 32552: 1.21 1/s
+6842.6 32627: 1.24 1/s
+6902.6 32708: 1.35 1/s
+6962.7 32786: 1.30 1/s
+7022.7 32851: 1.08 1/s
+7082.8 32920: 1.15 1/s
+7142.8 32992: 1.20 1/s
+7202.9 33070: 1.30 1/s
+7263.0 33144: 1.23 1/s
+7323.0 33212: 1.13 1/s
+7383.0 33288: 1.26 1/s
+7443.1 33363: 1.26 1/s
+7503.1 33437: 1.23 1/s
+7563.2 33498: 1.01 1/s
+7623.2 33558: 1.01 1/s
+7683.2 33626: 1.13 1/s
+7743.3 33692: 1.09 1/s
+7803.3 33759: 1.12 1/s
+7863.3 33827: 1.13 1/s
+7923.4 33898: 1.19 1/s
+7983.5 33963: 1.08 1/s
+8043.5 34024: 1.02 1/s
+8103.5 34082: 0.96 1/s
+8163.6 34140: 0.97 1/s
+8223.7 34199: 0.98 1/s
+8283.7 34262: 1.06 1/s
+8343.7 34329: 1.11 1/s
+8403.7 34391: 1.02 1/s
+8463.8 34458: 1.11 1/s
+8523.8 34525: 1.12 1/s
+8583.9 34589: 1.07 1/s
+8644.0 34645: 0.93 1/s
+8704.0 34704: 0.98 1/s
+8764.0 34769: 1.08 1/s
+8824.1 34832: 1.05 1/s
+8884.2 34900: 1.13 1/s
+8944.2 34961: 1.02 1/s
+9004.2 35022: 1.01 1/s
+9064.3 35087: 1.09 1/s
+9124.3 35146: 0.97 1/s
+9184.4 35205: 0.99 1/s
+9244.4 35260: 0.92 1/s
+9304.5 35314: 0.89 1/s
+9364.5 35367: 0.89 1/s
+9424.6 35422: 0.92 1/s
+9484.7 35485: 1.04 1/s
+9544.7 35539: 0.91 1/s
+9604.8 35596: 0.94 1/s
+9664.8 35660: 1.07 1/s
+9724.9 35726: 1.09 1/s
+9784.9 35785: 1.00 1/s
+9845.0 35839: 0.89 1/s
+9905.0 35895: 0.94 1/s
+9965.1 35950: 0.92 1/s
+10025.2 36006: 0.93 1/s
+10085.2 36067: 1.01 1/s
+10145.2 36130: 1.04 1/s
+10205.2 36188: 0.97 1/s
+10265.3 36247: 0.98 1/s
+10325.4 36306: 0.98 1/s
+10385.4 36363: 0.95 1/s
+10445.5 36413: 0.84 1/s
+10505.6 36465: 0.86 1/s
+10565.6 36518: 0.88 1/s
+10625.7 36575: 0.95 1/s
+10685.7 36628: 0.89 1/s
+10745.7 36689: 1.01 1/s
+10805.8 36748: 0.98 1/s
+10865.8 36809: 1.02 1/s
+10925.8 36866: 0.95 1/s
+10985.9 36923: 0.96 1/s
+11045.9 36979: 0.93 1/s
+11106.0 37034: 0.91 1/s
+11166.0 37086: 0.88 1/s
+11226.1 37140: 0.90 1/s
+11286.2 37196: 0.94 1/s
+11346.2 37251: 0.90 1/s
+11406.2 37309: 0.97 1/s
+11466.2 37364: 0.92 1/s
+11526.3 37423: 0.98 1/s
+11586.3 37485: 1.03 1/s
+11646.3 37543: 0.97 1/s
+11706.4 37600: 0.94 1/s
+11766.5 37650: 0.83 1/s
+11826.5 37701: 0.86 1/s
+11886.6 37758: 0.94 1/s
+11946.6 37813: 0.92 1/s
+12006.7 37873: 1.00 1/s
+12066.7 37931: 0.97 1/s
+12126.8 37990: 0.98 1/s
+12186.9 38050: 1.00 1/s
+12246.9 38111: 1.01 1/s
+12307.0 38167: 0.93 1/s
+12367.1 38218: 0.86 1/s
+12427.1 38268: 0.83 1/s
+12487.1 38324: 0.94 1/s
+12547.2 38383: 0.98 1/s
+12607.3 38438: 0.92 1/s
+12667.3 38501: 1.04 1/s
+12727.3 38555: 0.90 1/s
+12787.4 38610: 0.93 1/s
+12847.5 38667: 0.94 1/s
+12907.5 38723: 0.94 1/s
+12967.6 38777: 0.91 1/s
+13027.7 38833: 0.92 1/s
+13087.8 38884: 0.86 1/s
+13147.9 38936: 0.86 1/s
+13208.0 38989: 0.88 1/s
+13268.1 39040: 0.85 1/s
+13328.1 39093: 0.89 1/s
+13388.2 39143: 0.83 1/s
+13448.3 39197: 0.89 1/s
+13508.3 39253: 0.94 1/s
+13568.4 39312: 0.98 1/s
+13628.5 39366: 0.89 1/s
+13688.5 39415: 0.82 1/s
+13748.6 39462: 0.77 1/s
+13808.6 39513: 0.86 1/s
+13868.7 39566: 0.87 1/s
+13906.8 39600: 0.90 1/s
+Simulation done in 13906.52s
+---
+All done in 13910.25s
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.5', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 3/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 4097: 68.28 1/s
+120.0 5521: 23.74 1/s
+180.0 6512: 16.52 1/s
+240.0 7340: 13.79 1/s
+300.0 8057: 11.95 1/s
+360.0 8795: 12.31 1/s
+420.0 9424: 10.47 1/s
+480.0 9941: 8.61 1/s
+540.0 10502: 9.35 1/s
+600.0 11060: 9.30 1/s
+660.1 11635: 9.59 1/s
+720.1 12205: 9.51 1/s
+780.1 12745: 9.00 1/s
+840.1 13307: 9.37 1/s
+900.1 13867: 9.33 1/s
+960.1 14472: 10.09 1/s
+1020.1 15032: 9.33 1/s
+1080.1 15593: 9.34 1/s
+1140.1 16150: 9.29 1/s
+1200.1 16678: 8.79 1/s
+1260.1 17210: 8.88 1/s
+1320.1 17739: 8.81 1/s
+1380.1 18237: 8.30 1/s
+1440.1 18773: 8.94 1/s
+1500.2 19308: 8.91 1/s
+1560.2 19790: 8.03 1/s
+1620.2 20217: 7.12 1/s
+1680.2 20623: 6.76 1/s
+1740.2 21004: 6.36 1/s
+1800.2 21344: 5.66 1/s
+1860.2 21663: 5.31 1/s
+1920.3 21946: 4.72 1/s
+1980.3 22237: 4.86 1/s
+2040.3 22497: 4.33 1/s
+2100.3 22735: 3.96 1/s
+2160.3 22986: 4.18 1/s
+2220.3 23210: 3.74 1/s
+2280.3 23408: 3.30 1/s
+2340.3 23620: 3.53 1/s
+2400.4 23825: 3.42 1/s
+2460.4 24012: 3.11 1/s
+2520.4 24215: 3.39 1/s
+2580.4 24399: 3.06 1/s
+2640.5 24582: 3.05 1/s
+2700.5 24757: 2.92 1/s
+2760.5 24949: 3.21 1/s
+2820.6 25125: 2.92 1/s
+2880.6 25304: 2.98 1/s
+2940.6 25481: 2.94 1/s
+3000.7 25641: 2.67 1/s
+3060.7 25798: 2.61 1/s
+3120.7 25957: 2.65 1/s
+3180.7 26127: 2.84 1/s
+3240.7 26287: 2.67 1/s
+3300.7 26435: 2.45 1/s
+3360.7 26583: 2.48 1/s
+3420.8 26750: 2.78 1/s
+3480.8 26901: 2.52 1/s
+3540.8 27041: 2.33 1/s
+3600.8 27179: 2.30 1/s
+3660.9 27326: 2.45 1/s
+3720.9 27455: 2.15 1/s
+3780.9 27576: 2.02 1/s
+3840.9 27711: 2.25 1/s
+3900.9 27844: 2.21 1/s
+3961.0 27971: 2.12 1/s
+4021.0 28081: 1.84 1/s
+4081.0 28185: 1.73 1/s
+4141.0 28292: 1.78 1/s
+4201.1 28407: 1.91 1/s
+4261.1 28520: 1.88 1/s
+4321.1 28628: 1.81 1/s
+4381.2 28732: 1.74 1/s
+4419.3 28800: 1.78 1/s
+Simulation done in 4419.20s
+---
+All done in 4422.84s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.8', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 9/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 4139: 68.98 1/s
+120.0 5627: 24.80 1/s
+180.0 6616: 16.48 1/s
+240.0 7496: 14.67 1/s
+300.0 8221: 12.09 1/s
+360.0 8946: 12.09 1/s
+420.0 9576: 10.49 1/s
+480.1 10167: 9.85 1/s
+540.1 10777: 10.16 1/s
+600.1 11395: 10.30 1/s
+660.1 12019: 10.40 1/s
+720.1 12633: 10.23 1/s
+780.1 13201: 9.47 1/s
+840.1 13738: 8.94 1/s
+900.1 14285: 9.11 1/s
+960.1 14804: 8.66 1/s
+1020.1 15316: 8.53 1/s
+1080.1 15884: 9.47 1/s
+1140.1 16484: 10.01 1/s
+1200.1 17031: 9.12 1/s
+1260.2 17555: 8.72 1/s
+1320.2 18088: 8.88 1/s
+1380.2 18622: 8.90 1/s
+1440.2 19214: 9.87 1/s
+1500.2 19724: 8.50 1/s
+1560.2 20195: 7.86 1/s
+1620.2 20625: 7.17 1/s
+1680.2 21025: 6.66 1/s
+1740.2 21388: 6.05 1/s
+1800.2 21717: 5.48 1/s
+1860.2 22007: 4.83 1/s
+1920.3 22304: 4.95 1/s
+1980.3 22553: 4.15 1/s
+2040.3 22802: 4.15 1/s
+2100.3 23041: 3.99 1/s
+2160.3 23258: 3.62 1/s
+2220.3 23465: 3.45 1/s
+2280.3 23678: 3.56 1/s
+2340.4 23882: 3.39 1/s
+2400.4 24080: 3.29 1/s
+2460.4 24283: 3.39 1/s
+2520.4 24453: 2.83 1/s
+2580.4 24632: 2.99 1/s
+2640.4 24813: 3.00 1/s
+2700.4 24999: 3.10 1/s
+2760.4 25176: 2.96 1/s
+2820.5 25350: 2.89 1/s
+2880.5 25527: 2.96 1/s
+2940.5 25691: 2.72 1/s
+3000.5 25847: 2.60 1/s
+3060.5 26016: 2.81 1/s
+3120.5 26187: 2.86 1/s
+3180.6 26348: 2.68 1/s
+3240.6 26494: 2.44 1/s
+3300.6 26648: 2.55 1/s
+3360.6 26807: 2.65 1/s
+3420.6 26961: 2.57 1/s
+3480.6 27105: 2.39 1/s
+3540.7 27242: 2.28 1/s
+3600.7 27389: 2.45 1/s
+3660.7 27526: 2.29 1/s
+3720.7 27655: 2.16 1/s
+3780.7 27786: 2.18 1/s
+3840.7 27926: 2.32 1/s
+3900.8 28049: 2.05 1/s
+3960.8 28162: 1.89 1/s
+4020.9 28278: 1.92 1/s
+4080.9 28396: 1.98 1/s
+4140.9 28530: 2.23 1/s
+4200.9 28652: 2.04 1/s
+4261.0 28764: 1.85 1/s
+4279.5 28800: 1.97 1/s
+Simulation done in 4279.39s
+---
+All done in 4282.96s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.4', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 14/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 4105: 68.41 1/s
+120.0 5569: 24.39 1/s
+180.0 6503: 15.56 1/s
+240.0 7372: 14.48 1/s
+300.0 8100: 12.13 1/s
+360.0 8793: 11.55 1/s
+420.0 9432: 10.66 1/s
+480.0 10045: 10.21 1/s
+540.0 10606: 9.35 1/s
+600.0 11159: 9.22 1/s
+660.0 11718: 9.32 1/s
+720.0 12306: 9.80 1/s
+780.1 12875: 9.48 1/s
+840.1 13451: 9.59 1/s
+900.1 14024: 9.56 1/s
+960.1 14572: 9.13 1/s
+1020.1 15137: 9.41 1/s
+1080.1 15697: 9.34 1/s
+1140.1 16243: 9.09 1/s
+1200.1 16816: 9.55 1/s
+1260.1 17360: 9.06 1/s
+1320.1 17899: 8.99 1/s
+1380.1 18423: 8.73 1/s
+1440.1 18960: 8.95 1/s
+1500.1 19483: 8.71 1/s
+1560.2 19960: 7.95 1/s
+1620.2 20380: 7.01 1/s
+1680.2 20779: 6.65 1/s
+1740.2 21134: 5.92 1/s
+1800.2 21472: 5.62 1/s
+1860.2 21768: 4.94 1/s
+1920.2 22040: 4.53 1/s
+1980.2 22327: 4.79 1/s
+2040.2 22566: 3.97 1/s
+2100.2 22817: 4.18 1/s
+2160.3 23053: 3.94 1/s
+2220.3 23264: 3.51 1/s
+2280.3 23465: 3.36 1/s
+2340.3 23672: 3.45 1/s
+2400.3 23871: 3.31 1/s
+2460.4 24062: 3.20 1/s
+2520.4 24268: 3.42 1/s
+2580.4 24441: 2.88 1/s
+2640.4 24616: 2.92 1/s
+2700.4 24789: 2.88 1/s
+2760.4 24979: 3.17 1/s
+2820.4 25147: 2.79 1/s
+2880.4 25317: 2.84 1/s
+2940.5 25494: 2.94 1/s
+3000.5 25659: 2.75 1/s
+3060.5 25817: 2.63 1/s
+3120.5 25976: 2.66 1/s
+3180.5 26149: 2.87 1/s
+3240.5 26305: 2.61 1/s
+3300.6 26450: 2.41 1/s
+3360.6 26604: 2.56 1/s
+3420.7 26761: 2.62 1/s
+3480.7 26912: 2.51 1/s
+3540.7 27046: 2.24 1/s
+3600.7 27180: 2.24 1/s
+3660.7 27321: 2.34 1/s
+3720.8 27446: 2.08 1/s
+3780.8 27566: 2.01 1/s
+3840.8 27694: 2.14 1/s
+3900.9 27833: 2.31 1/s
+3960.9 27967: 2.23 1/s
+4020.9 28088: 2.01 1/s
+4080.9 28194: 1.77 1/s
+4141.0 28298: 1.73 1/s
+4201.0 28407: 1.81 1/s
+4261.0 28520: 1.89 1/s
+4321.1 28629: 1.80 1/s
+4381.1 28733: 1.74 1/s
+4420.4 28800: 1.70 1/s
+Simulation done in 4420.28s
+---
+All done in 4423.95s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.5', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '3'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 16/60
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:3'
+60.0 4065: 67.75 1/s
+120.0 5546: 24.69 1/s
+180.0 6579: 17.20 1/s
+240.0 7465: 14.77 1/s
+300.0 8214: 12.49 1/s
+360.0 8926: 11.87 1/s
+420.0 9588: 11.03 1/s
+480.0 10269: 11.35 1/s
+540.0 10901: 10.53 1/s
+600.1 11531: 10.50 1/s
+660.1 12207: 11.28 1/s
+720.1 12835: 10.46 1/s
+780.1 13461: 10.44 1/s
+840.1 14104: 10.71 1/s
+900.1 14734: 10.50 1/s
+960.1 15349: 10.24 1/s
+1020.1 15969: 10.33 1/s
+1080.1 16608: 10.66 1/s
+1140.1 17244: 10.60 1/s
+1200.1 17829: 9.75 1/s
+1260.1 18389: 9.33 1/s
+1320.1 18936: 9.12 1/s
+1380.1 19439: 8.38 1/s
+1440.1 19929: 8.17 1/s
+1500.1 20371: 7.36 1/s
+1560.1 20766: 6.58 1/s
+1620.2 21123: 5.94 1/s
+1680.2 21475: 5.87 1/s
+1740.2 21784: 5.16 1/s
+1800.2 22067: 4.72 1/s
+1860.2 22353: 4.76 1/s
+1920.2 22589: 3.94 1/s
+1980.2 22845: 4.26 1/s
+2040.3 23081: 3.93 1/s
+2100.3 23287: 3.44 1/s
+2160.3 23495: 3.47 1/s
+2220.3 23706: 3.52 1/s
+2280.3 23906: 3.33 1/s
+2340.3 24099: 3.22 1/s
+2400.4 24297: 3.29 1/s
+2460.4 24467: 2.84 1/s
+2520.4 24646: 2.99 1/s
+2580.4 24829: 3.03 1/s
+2640.4 25016: 3.13 1/s
+2700.4 25186: 2.83 1/s
+2760.4 25363: 2.94 1/s
+2820.4 25539: 2.94 1/s
+2880.5 25696: 2.61 1/s
+2940.5 25851: 2.58 1/s
+3000.5 26011: 2.67 1/s
+3060.5 26186: 2.91 1/s
+3120.5 26343: 2.61 1/s
+3180.6 26485: 2.38 1/s
+3240.6 26640: 2.57 1/s
+3300.7 26800: 2.66 1/s
+3360.7 26951: 2.51 1/s
+3420.7 27086: 2.26 1/s
+3480.8 27225: 2.31 1/s
+3540.8 27371: 2.44 1/s
+3600.8 27495: 2.06 1/s
+3660.8 27621: 2.09 1/s
+3720.9 27756: 2.25 1/s
+3780.9 27886: 2.17 1/s
+3840.9 28009: 2.05 1/s
+3900.9 28117: 1.79 1/s
+3961.0 28222: 1.76 1/s
+4021.0 28335: 1.88 1/s
+4081.1 28447: 1.87 1/s
+4141.1 28561: 1.88 1/s
+4201.2 28667: 1.77 1/s
+4261.2 28772: 1.75 1/s
+4321.3 28876: 1.73 1/s
+4381.3 28986: 1.83 1/s
+4441.3 29101: 1.92 1/s
+4501.3 29203: 1.70 1/s
+4561.3 29302: 1.64 1/s
+4621.3 29408: 1.78 1/s
+4681.4 29508: 1.66 1/s
+4741.4 29609: 1.68 1/s
+4801.4 29723: 1.90 1/s
+4861.5 29824: 1.69 1/s
+4921.5 29911: 1.45 1/s
+4981.6 30006: 1.59 1/s
+5041.6 30098: 1.53 1/s
+5101.7 30190: 1.54 1/s
+5161.7 30287: 1.61 1/s
+5221.7 30381: 1.57 1/s
+5281.7 30468: 1.44 1/s
+5341.7 30554: 1.45 1/s
+5401.8 30638: 1.38 1/s
+5461.8 30721: 1.38 1/s
+5521.8 30804: 1.39 1/s
+5581.9 30894: 1.50 1/s
+5641.9 30971: 1.28 1/s
+5701.9 31044: 1.23 1/s
+5762.0 31121: 1.27 1/s
+5822.0 31198: 1.29 1/s
+5882.1 31274: 1.27 1/s
+5942.1 31354: 1.32 1/s
+6002.2 31435: 1.36 1/s
+6062.2 31518: 1.38 1/s
+6122.3 31593: 1.25 1/s
+6182.4 31664: 1.19 1/s
+6242.4 31734: 1.16 1/s
+6302.5 31808: 1.23 1/s
+6362.5 31881: 1.21 1/s
+6422.6 31953: 1.19 1/s
+6482.7 32025: 1.20 1/s
+6542.7 32100: 1.26 1/s
+6602.7 32177: 1.28 1/s
+6662.7 32244: 1.12 1/s
+6722.8 32307: 1.05 1/s
+6782.8 32375: 1.13 1/s
+6842.9 32445: 1.16 1/s
+6903.0 32515: 1.17 1/s
+6963.0 32582: 1.12 1/s
+7023.1 32657: 1.24 1/s
+7083.2 32735: 1.30 1/s
+7143.3 32806: 1.19 1/s
+7203.3 32868: 1.02 1/s
+7263.4 32934: 1.11 1/s
+7323.4 33005: 1.18 1/s
+7383.5 33079: 1.24 1/s
+7443.5 33147: 1.13 1/s
+7503.6 33215: 1.12 1/s
+7563.6 33286: 1.19 1/s
+7623.7 33354: 1.13 1/s
+7683.8 33417: 1.04 1/s
+7743.8 33478: 1.01 1/s
+7803.8 33536: 0.97 1/s
+7863.9 33597: 1.02 1/s
+7923.9 33663: 1.09 1/s
+7984.0 33728: 1.08 1/s
+8044.0 33790: 1.03 1/s
+8104.1 33856: 1.10 1/s
+8164.3 33925: 1.15 1/s
+8224.4 33989: 1.06 1/s
+8284.5 34045: 0.93 1/s
+8344.6 34101: 0.93 1/s
+8404.7 34157: 0.94 1/s
+8464.7 34219: 1.02 1/s
+8524.8 34284: 1.08 1/s
+8584.8 34346: 1.03 1/s
+8644.9 34408: 1.04 1/s
+8704.9 34473: 1.09 1/s
+8765.0 34538: 1.08 1/s
+8825.1 34599: 1.01 1/s
+8885.1 34655: 0.93 1/s
+8945.1 34713: 0.97 1/s
+9005.2 34782: 1.14 1/s
+9065.2 34841: 0.99 1/s
+9125.2 34912: 1.18 1/s
+9185.2 34972: 1.00 1/s
+9245.3 35035: 1.05 1/s
+9305.3 35104: 1.14 1/s
+9365.4 35165: 1.03 1/s
+9425.4 35225: 0.99 1/s
+9485.5 35283: 0.97 1/s
+9545.5 35340: 0.95 1/s
+9605.6 35396: 0.92 1/s
+9665.6 35453: 0.95 1/s
+9725.7 35517: 1.06 1/s
+9785.8 35572: 0.92 1/s
+9845.8 35633: 1.01 1/s
+9905.9 35704: 1.19 1/s
+9965.9 35770: 1.08 1/s
+10026.0 35828: 0.97 1/s
+10086.0 35886: 0.97 1/s
+10146.0 35944: 0.97 1/s
+10206.0 36001: 0.95 1/s
+10266.1 36064: 1.04 1/s
+10326.2 36128: 1.07 1/s
+10386.3 36190: 1.03 1/s
+10446.3 36254: 1.07 1/s
+10506.4 36315: 1.01 1/s
+10566.5 36369: 0.89 1/s
+10626.6 36421: 0.87 1/s
+10686.6 36479: 0.96 1/s
+10746.7 36535: 0.94 1/s
+10806.7 36596: 1.01 1/s
+10866.8 36655: 0.98 1/s
+10926.8 36720: 1.09 1/s
+10986.9 36782: 1.02 1/s
+11047.0 36842: 1.01 1/s
+11107.0 36904: 1.04 1/s
+11167.1 36965: 1.01 1/s
+11227.1 37026: 1.02 1/s
+11287.1 37083: 0.94 1/s
+11347.1 37139: 0.94 1/s
+11407.1 37196: 0.95 1/s
+11467.1 37252: 0.94 1/s
+11527.2 37310: 0.97 1/s
+11587.2 37366: 0.93 1/s
+11647.3 37426: 1.00 1/s
+11707.3 37494: 1.13 1/s
+11767.4 37553: 0.98 1/s
+11827.5 37610: 0.95 1/s
+11887.6 37658: 0.80 1/s
+11947.7 37711: 0.89 1/s
+12007.8 37769: 0.96 1/s
+12067.8 37824: 0.91 1/s
+12127.8 37885: 1.02 1/s
+12187.9 37944: 0.98 1/s
+12247.9 38004: 1.00 1/s
+12308.0 38062: 0.97 1/s
+12368.0 38122: 1.00 1/s
+12428.1 38178: 0.94 1/s
+12488.1 38230: 0.87 1/s
+12548.2 38285: 0.92 1/s
+12608.2 38341: 0.93 1/s
+12668.2 38400: 0.98 1/s
+12728.3 38459: 0.98 1/s
+12788.3 38517: 0.98 1/s
+12848.4 38574: 0.94 1/s
+12908.5 38633: 0.97 1/s
+12968.5 38693: 1.01 1/s
+13028.5 38749: 0.93 1/s
+13088.6 38805: 0.94 1/s
+13148.7 38857: 0.86 1/s
+13208.8 38911: 0.89 1/s
+13268.8 38965: 0.91 1/s
+13328.9 39018: 0.89 1/s
+13388.9 39078: 0.99 1/s
+13449.0 39130: 0.88 1/s
+13509.0 39187: 0.95 1/s
+13569.1 39246: 0.98 1/s
+13629.1 39309: 1.04 1/s
+13689.2 39366: 0.96 1/s
+13749.3 39419: 0.88 1/s
+13809.3 39471: 0.86 1/s
+13869.4 39527: 0.94 1/s
+13929.5 39582: 0.92 1/s
+13949.0 39600: 0.92 1/s
+Simulation done in 13948.81s
+---
+All done in 13952.54s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.3_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.7_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.1_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.4_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.8_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.2_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:1.0_gamma:1.0_tSpeed:1M_tRange:80_seed:2_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:1.0_tSpeed:1M_tRange:80_seed:3_MessageStatsReport.txt

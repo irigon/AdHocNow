@@ -1,0 +1,21 @@
+python3: can't open file 'one.py': [Errno 2] No such file or directory
+/home/service/the-one-normal/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:86400_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '0', 'Scenario.endTime': '86400', 'Events1.interval': '90000', 'Scenario.updateInterval': '1.0', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 1/1
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:86400_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1'
+28.1 86400: 3076.70 1/s
+Simulation done in 27.98s
+---
+All done in 31.02s

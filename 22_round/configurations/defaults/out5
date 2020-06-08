@@ -1,0 +1,85 @@
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'MaxPropRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '5M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 5/6
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1'
+60.0 7758: 129.30 1/s
+120.0 14315: 109.27 1/s
+180.0 18686: 72.84 1/s
+240.0 20014: 22.13 1/s
+300.1 20826: 13.53 1/s
+360.3 21458: 10.50 1/s
+420.3 21920: 7.70 1/s
+480.3 22382: 7.71 1/s
+540.8 22721: 5.59 1/s
+600.9 22919: 3.30 1/s
+660.9 23101: 3.03 1/s
+721.1 23299: 3.30 1/s
+781.2 23494: 3.25 1/s
+841.5 23595: 1.68 1/s
+901.5 23712: 1.94 1/s
+961.8 23845: 2.21 1/s
+1022.0 24004: 2.63 1/s
+1082.0 24118: 1.90 1/s
+1142.0 24232: 1.90 1/s
+1202.1 24349: 1.94 1/s
+1262.3 24512: 2.71 1/s
+1322.3 24602: 1.50 1/s
+1382.8 24698: 1.59 1/s
+1443.0 24840: 2.36 1/s
+1503.1 24954: 1.89 1/s
+1563.1 25069: 1.92 1/s
+1623.2 25188: 1.99 1/s
+1683.2 25265: 1.27 1/s
+1743.2 25351: 1.45 1/s
+1803.7 25459: 1.79 1/s
+1863.9 25529: 1.16 1/s
+1924.1 25638: 1.80 1/s
+1984.3 25756: 1.97 1/s
+2044.4 25854: 1.63 1/s
+2104.5 25954: 1.67 1/s
+2164.5 26037: 1.38 1/s
+2224.8 26109: 1.18 1/s
+2284.8 26197: 1.48 1/s
+2344.8 26302: 1.73 1/s
+2405.5 26395: 1.55 1/s
+2465.6 26457: 1.03 1/s
+2525.7 26527: 1.16 1/s
+2585.9 26669: 2.36 1/s
+2645.9 26772: 1.72 1/s
+2706.0 26881: 1.82 1/s
+2766.4 26950: 1.15 1/s
+2829.0 27045: 1.51 1/s
+2889.8 27128: 1.38 1/s
+2949.9 27198: 1.15 1/s
+3010.3 27272: 1.23 1/s
+3070.3 27361: 1.49 1/s
+3131.0 27445: 1.37 1/s
+3191.1 27537: 1.54 1/s
+3252.2 27619: 1.34 1/s
+3312.8 27718: 1.64 1/s
+3373.0 27789: 1.19 1/s
+3433.2 27906: 1.94 1/s
+3493.3 28016: 1.82 1/s
+3553.3 28112: 1.60 1/s
+3613.3 28202: 1.50 1/s
+3673.3 28314: 1.87 1/s
+3733.4 28405: 1.52 1/s
+3793.4 28574: 2.80 1/s
+3853.6 28695: 2.02 1/s
+3896.7 28800: 2.43 1/s
+Simulation done in 3896.38s
+---
+All done in 3897.99s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/freiburg1True_router:MaxPropRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt

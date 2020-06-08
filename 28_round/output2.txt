@@ -1,0 +1,149 @@
+/root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '5M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '1', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 1/12
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1'
+60.0 3428: 57.14 1/s
+120.0 4803: 22.90 1/s
+180.0 5763: 16.00 1/s
+240.0 6486: 12.05 1/s
+300.0 7027: 9.01 1/s
+360.0 7513: 8.11 1/s
+420.0 7960: 7.45 1/s
+480.0 8356: 6.59 1/s
+540.0 8745: 6.48 1/s
+600.1 9100: 5.92 1/s
+660.1 9426: 5.43 1/s
+720.1 9740: 5.23 1/s
+780.1 10052: 5.20 1/s
+840.1 10357: 5.08 1/s
+900.1 10658: 5.02 1/s
+960.1 10950: 4.86 1/s
+1020.1 11232: 4.71 1/s
+1080.1 11512: 4.66 1/s
+1140.1 11792: 4.67 1/s
+1200.1 12064: 4.54 1/s
+1260.2 12326: 4.35 1/s
+1320.2 12583: 4.30 1/s
+1380.2 12837: 4.23 1/s
+1440.2 13084: 4.11 1/s
+1500.2 13329: 4.09 1/s
+1560.2 13571: 4.02 1/s
+1620.2 13807: 3.95 1/s
+1680.2 14040: 3.88 1/s
+1740.3 14272: 3.86 1/s
+1800.3 14501: 3.82 1/s
+1860.3 14723: 3.69 1/s
+1920.3 14943: 3.67 1/s
+1980.3 15164: 3.68 1/s
+2040.3 15380: 3.60 1/s
+2100.4 15593: 3.55 1/s
+2160.4 15802: 3.48 1/s
+2220.4 16008: 3.43 1/s
+2280.4 16211: 3.38 1/s
+2340.4 16414: 3.39 1/s
+2400.4 16618: 3.40 1/s
+2460.5 16822: 3.40 1/s
+2520.5 17027: 3.42 1/s
+2580.5 17227: 3.33 1/s
+2640.6 17427: 3.33 1/s
+2700.6 17623: 3.27 1/s
+2760.6 17819: 3.26 1/s
+2820.6 18009: 3.16 1/s
+2880.6 18197: 3.14 1/s
+2940.6 18384: 3.11 1/s
+3000.7 18571: 3.11 1/s
+3060.7 18759: 3.14 1/s
+3120.7 18946: 3.12 1/s
+3180.7 19131: 3.08 1/s
+3240.7 19324: 3.22 1/s
+3300.7 19511: 3.12 1/s
+3360.7 19697: 3.11 1/s
+3420.7 19898: 3.35 1/s
+3480.8 20098: 3.32 1/s
+3540.8 20297: 3.32 1/s
+3600.8 20499: 3.38 1/s
+3660.8 20706: 3.45 1/s
+3720.8 20912: 3.43 1/s
+3780.8 21125: 3.55 1/s
+3840.8 21335: 3.50 1/s
+3900.8 21549: 3.56 1/s
+3960.8 21764: 3.59 1/s
+4020.8 21997: 3.88 1/s
+4080.9 22214: 3.62 1/s
+4140.9 22417: 3.39 1/s
+4200.9 22626: 3.48 1/s
+4260.9 22823: 3.29 1/s
+4320.9 23004: 3.01 1/s
+4381.0 23190: 3.11 1/s
+4441.0 23380: 3.15 1/s
+4501.0 23580: 3.34 1/s
+4561.0 23764: 3.06 1/s
+4621.1 23941: 2.95 1/s
+4681.1 24124: 3.05 1/s
+4741.1 24351: 3.79 1/s
+4801.1 24580: 3.82 1/s
+4861.1 24839: 4.31 1/s
+4921.2 25119: 4.67 1/s
+4981.2 25376: 4.28 1/s
+5041.2 25642: 4.43 1/s
+5101.2 25916: 4.56 1/s
+5161.2 26186: 4.51 1/s
+5221.2 26474: 4.79 1/s
+5281.2 26741: 4.45 1/s
+5341.2 27024: 4.72 1/s
+5401.3 27290: 4.43 1/s
+5461.3 27575: 4.75 1/s
+5521.3 27858: 4.71 1/s
+5581.3 28138: 4.67 1/s
+5641.3 28409: 4.51 1/s
+5701.3 28705: 4.93 1/s
+5721.3 28800: 4.76 1/s
+Simulation done in 5721.13s
+---
+All done in 5724.51s
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:3_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+Ignoring existing simulation:  /root/the-one-transit/reports/helsinki1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:5M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt

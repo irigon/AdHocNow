@@ -1,0 +1,20 @@
+Message stats for scenario helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.5_gamma:1.0_tSpeed:1M_tRange:80_seed:1
+sim_time: 28800.1000
+created: 28800
+started: 459565
+relayed: 449692
+aborted: 9811
+dropped: 144207
+removed: 0
+delivered: 12765
+delivery_prob: 0.4432
+response_prob: 0.0000
+overhead_ratio: 34.2285
+latency_avg: 9374.8104
+latency_med: 8055.3000
+hopcount_avg: 3.2332
+hopcount_med: 3
+buffertime_avg: 12182.0870
+buffertime_med: 7373.7000
+rtt_avg: NaN
+rtt_med: NaN

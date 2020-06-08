@@ -1,0 +1,1027 @@
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 1/2
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 1/2
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+/home/service/the-one-normal/reports/prague1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1True_settings.txt']
+Percent: 1/2
+Run 1/1
+39 in line defined by file data/prague1True/1_schedule.csv
+18 in line defined by file data/prague1True/2_schedule.csv
+49 in line defined by file data/prague1True/3_schedule.csv
+12 in line defined by file data/prague1True/4_schedule.csv
+20 in line defined by file data/prague1True/5_schedule.csv
+18 in line defined by file data/prague1True/6_schedule.csv
+21 in line defined by file data/prague1True/7_schedule.csv
+16 in line defined by file data/prague1True/8_schedule.csv
+51 in line defined by file data/prague1True/9_schedule.csv
+33 in line defined by file data/prague1True/10_schedule.csv
+17 in line defined by file data/prague1True/11_schedule.csv
+18 in line defined by file data/prague1True/12_schedule.csv
+17 in line defined by file data/prague1True/13_schedule.csv
+17 in line defined by file data/prague1True/14_schedule.csv
+16 in line defined by file data/prague1True/15_schedule.csv
+19 in line defined by file data/prague1True/16_schedule.csv
+50 in line defined by file data/prague1True/17_schedule.csv
+13 in line defined by file data/prague1True/18_schedule.csv
+27 in line defined by file data/prague1True/20_schedule.csv
+19 in line defined by file data/prague1True/21_schedule.csv
+129 in line defined by file data/prague1True/22_schedule.csv
+15 in line defined by file data/prague1True/24_schedule.csv
+22 in line defined by file data/prague1True/25_schedule.csv
+25 in line defined by file data/prague1True/26_schedule.csv
+Running simulation 'prague1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+/home/service/the-one-normal/reports/pragueMetro1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'pragueMetro1True_settings.txt']
+Percent: 1/2
+/home/service/the-one-normal/reports/pragueMetro1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'pragueMetro1True_settings.txt']
+Percent: 2/2
+60.0 9507: 158.45 1/s
+60.0 4116: 68.59 1/s
+60.0 4378: 72.97 1/s
+120.0 16168: 111.01 1/s
+120.0 5620: 25.07 1/s
+120.0 6913: 42.24 1/s
+180.0 20575: 73.45 1/s
+180.0 6629: 16.80 1/s
+180.0 9215: 38.36 1/s
+240.0 22730: 35.92 1/s
+240.0 7466: 13.95 1/s
+240.0 11425: 36.84 1/s
+300.0 24279: 25.81 1/s
+300.0 8348: 14.69 1/s
+300.0 13555: 35.49 1/s
+360.0 25496: 20.29 1/s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+/home/service/the-one-normal/reports/prague1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '39600', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'prague1True_settings.txt']
+Percent: 2/2
+Run 1/1
+39 in line defined by file data/prague1True/1_schedule.csv
+18 in line defined by file data/prague1True/2_schedule.csv
+49 in line defined by file data/prague1True/3_schedule.csv
+12 in line defined by file data/prague1True/4_schedule.csv
+20 in line defined by file data/prague1True/5_schedule.csv
+18 in line defined by file data/prague1True/6_schedule.csv
+21 in line defined by file data/prague1True/7_schedule.csv
+16 in line defined by file data/prague1True/8_schedule.csv
+51 in line defined by file data/prague1True/9_schedule.csv
+33 in line defined by file data/prague1True/10_schedule.csv
+17 in line defined by file data/prague1True/11_schedule.csv
+18 in line defined by file data/prague1True/12_schedule.csv
+17 in line defined by file data/prague1True/13_schedule.csv
+360.0 9230: 14.70 1/s
+17 in line defined by file data/prague1True/14_schedule.csv
+16 in line defined by file data/prague1True/15_schedule.csv
+19 in line defined by file data/prague1True/16_schedule.csv
+50 in line defined by file data/prague1True/17_schedule.csv
+13 in line defined by file data/prague1True/18_schedule.csv
+27 in line defined by file data/prague1True/20_schedule.csv
+19 in line defined by file data/prague1True/21_schedule.csv
+129 in line defined by file data/prague1True/22_schedule.csv
+15 in line defined by file data/prague1True/24_schedule.csv
+22 in line defined by file data/prague1True/25_schedule.csv
+25 in line defined by file data/prague1True/26_schedule.csv
+Running simulation 'prague1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+360.0 15609: 34.24 1/s
+420.0 26411: 15.25 1/s
+420.0 10090: 14.34 1/s
+60.0 4350: 72.50 1/s
+420.0 17268: 27.65 1/s
+480.0 27260: 14.15 1/s
+480.0 10928: 13.96 1/s
+120.0 6886: 42.27 1/s
+480.0 18260: 16.52 1/s
+540.0 27905: 10.74 1/s
+540.0 11693: 12.75 1/s
+180.0 9191: 38.40 1/s
+540.0 18841: 9.69 1/s
+600.0 28560: 10.92 1/s
+600.0 12605: 15.20 1/s
+240.0 11415: 37.08 1/s
+600.0 19210: 6.15 1/s
+660.0 29194: 10.57 1/s
+660.0 13473: 14.46 1/s
+300.0 13537: 35.36 1/s
+660.0 19559: 5.83 1/s
+720.1 29717: 8.72 1/s
+720.0 14285: 13.54 1/s
+360.0 15574: 33.95 1/s
+720.1 19837: 4.64 1/s
+780.1 30187: 7.82 1/s
+780.0 15091: 13.43 1/s
+420.0 17224: 27.50 1/s
+780.1 20092: 4.25 1/s
+840.1 30640: 7.55 1/s
+840.1 15875: 13.06 1/s
+480.0 18140: 15.26 1/s
+840.1 20308: 3.60 1/s
+900.1 31028: 6.47 1/s
+900.1 16652: 12.96 1/s
+540.0 18688: 9.13 1/s
+900.1 20492: 3.06 1/s
+960.1 31434: 6.75 1/s
+960.1 17453: 13.35 1/s
+600.0 19095: 6.78 1/s
+960.1 20669: 2.95 1/s
+1020.1 31836: 6.71 1/s
+1020.1 18253: 13.32 1/s
+660.1 19394: 4.99 1/s
+1020.2 20838: 2.82 1/s
+1080.1 32213: 6.29 1/s
+1080.1 19075: 13.71 1/s
+720.1 19643: 4.15 1/s
+1080.2 21023: 3.08 1/s
+1140.1 32560: 5.78 1/s
+1140.1 19847: 12.86 1/s
+780.1 19848: 3.42 1/s
+1140.2 21217: 3.25 1/s
+1200.1 32951: 6.51 1/s
+1200.1 20504: 10.95 1/s
+840.1 20042: 3.23 1/s
+1200.2 21399: 3.03 1/s
+1260.2 33335: 6.40 1/s
+1260.1 21092: 9.79 1/s
+900.1 20224: 3.03 1/s
+1260.2 21576: 2.95 1/s
+1320.2 33722: 6.43 1/s
+1320.1 21589: 8.28 1/s
+960.1 20378: 2.56 1/s
+1320.2 21732: 2.60 1/s
+1380.2 34056: 5.58 1/s
+1380.1 21976: 6.46 1/s
+1020.2 20521: 2.38 1/s
+1380.2 21879: 2.44 1/s
+1440.2 34368: 5.19 1/s
+1440.1 22369: 6.55 1/s
+1080.2 20667: 2.44 1/s
+1440.3 22029: 2.49 1/s
+1500.2 34697: 5.49 1/s
+1500.1 22667: 4.96 1/s
+1140.2 20807: 2.32 1/s
+1500.3 22167: 2.30 1/s
+1560.2 34993: 4.93 1/s
+1560.1 22977: 5.18 1/s
+1200.2 20939: 2.21 1/s
+1560.3 22295: 2.13 1/s
+1620.3 35365: 6.20 1/s
+1620.1 23284: 5.11 1/s
+1260.3 21075: 2.26 1/s
+1620.3 22402: 1.79 1/s
+1680.3 35754: 6.48 1/s
+1680.1 23596: 5.20 1/s
+1320.3 21211: 2.27 1/s
+1680.3 22497: 1.58 1/s
+1740.3 36132: 6.30 1/s
+1740.1 23882: 4.77 1/s
+1380.4 21341: 2.15 1/s
+1740.4 22610: 1.88 1/s
+1800.3 36434: 5.03 1/s
+1800.2 24110: 3.79 1/s
+1440.4 21464: 2.05 1/s
+1800.5 22720: 1.83 1/s
+1860.3 36745: 5.18 1/s
+1860.2 24357: 4.13 1/s
+1500.4 21580: 1.94 1/s
+1860.5 22823: 1.71 1/s
+1920.3 37047: 5.03 1/s
+1920.2 24570: 3.54 1/s
+1560.5 21687: 1.78 1/s
+1920.5 22931: 1.81 1/s
+1980.3 37360: 5.22 1/s
+1980.2 24771: 3.35 1/s
+1620.5 21788: 1.68 1/s
+1980.6 23033: 1.70 1/s
+2040.3 37618: 4.29 1/s
+2040.3 24990: 3.65 1/s
+1680.5 21890: 1.69 1/s
+2040.6 23132: 1.65 1/s
+2100.4 37881: 4.38 1/s
+2100.3 25181: 3.18 1/s
+1740.5 21995: 1.75 1/s
+2100.7 23233: 1.68 1/s
+2160.4 38138: 4.29 1/s
+2160.3 25388: 3.45 1/s
+1800.5 22095: 1.67 1/s
+2160.7 23321: 1.45 1/s
+2220.4 38410: 4.52 1/s
+2220.3 25579: 3.18 1/s
+1860.6 22198: 1.72 1/s
+2220.7 23416: 1.58 1/s
+2280.4 38694: 4.74 1/s
+2280.3 25751: 2.87 1/s
+1920.6 22298: 1.67 1/s
+2280.8 23512: 1.61 1/s
+2340.4 38956: 4.36 1/s
+2340.3 25929: 2.97 1/s
+1980.6 22397: 1.65 1/s
+2340.8 23603: 1.51 1/s
+2400.4 39189: 3.89 1/s
+2400.3 26126: 3.28 1/s
+2040.7 22487: 1.50 1/s
+2400.9 23684: 1.35 1/s
+2460.4 39465: 4.60 1/s
+2460.4 26301: 2.91 1/s
+2100.7 22578: 1.51 1/s
+2497.9 39600: 3.60 1/s
+Simulation done in 2497.70s
+---
+All done in 2499.09s
+/home/service/the-one-normal/reports/freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 2/2
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+2460.9 23772: 1.46 1/s
+2520.4 26462: 2.69 1/s
+2160.7 22669: 1.52 1/s
+60.0 9433: 157.22 1/s
+2521.0 23858: 1.43 1/s
+2580.4 26634: 2.86 1/s
+2220.8 22752: 1.39 1/s
+120.0 15929: 108.25 1/s
+2581.0 23948: 1.51 1/s
+2640.4 26826: 3.20 1/s
+2280.8 22835: 1.38 1/s
+180.0 20398: 74.50 1/s
+2641.0 24030: 1.36 1/s
+2700.4 26989: 2.71 1/s
+2340.8 22922: 1.45 1/s
+240.0 22625: 37.12 1/s
+2701.0 24110: 1.33 1/s
+2760.5 27143: 2.57 1/s
+2400.8 23000: 1.28 1/s
+300.0 24243: 26.96 1/s
+2761.0 24191: 1.34 1/s
+2820.5 27290: 2.44 1/s
+2460.9 23077: 1.29 1/s
+360.0 25511: 21.13 1/s
+2821.1 24267: 1.27 1/s
+2880.5 27434: 2.41 1/s
+2520.9 23151: 1.24 1/s
+420.0 26477: 16.09 1/s
+2881.1 24332: 1.09 1/s
+2940.5 27563: 2.15 1/s
+2581.0 23230: 1.32 1/s
+480.0 27359: 14.70 1/s
+2941.1 24396: 1.06 1/s
+3000.6 27693: 2.17 1/s
+2641.0 23300: 1.16 1/s
+540.0 28033: 11.24 1/s
+3001.2 24459: 1.05 1/s
+3060.6 27825: 2.20 1/s
+2701.0 23374: 1.23 1/s
+600.0 28711: 11.29 1/s
+607.8 28800: 11.53 1/s
+Simulation done in 607.69s
+---
+All done in 609.04s
+3061.3 24523: 1.06 1/s
+3120.6 27971: 2.43 1/s
+2761.0 23451: 1.28 1/s
+3121.4 24587: 1.07 1/s
+3180.7 28099: 2.14 1/s
+2821.1 23532: 1.35 1/s
+3181.5 24653: 1.10 1/s
+3240.7 28219: 2.00 1/s
+2881.1 23604: 1.20 1/s
+3241.5 24719: 1.10 1/s
+3300.7 28341: 2.04 1/s
+2941.2 23673: 1.14 1/s
+3301.5 24785: 1.11 1/s
+3360.7 28477: 2.27 1/s
+3001.2 23742: 1.16 1/s
+3361.5 24848: 1.04 1/s
+3420.7 28606: 2.15 1/s
+3061.3 23810: 1.13 1/s
+3421.6 24908: 1.00 1/s
+3480.7 28726: 1.99 1/s
+3121.4 23885: 1.25 1/s
+3481.6 24969: 1.02 1/s
+3540.8 28852: 2.09 1/s
+3181.4 23957: 1.20 1/s
+3541.7 25031: 1.04 1/s
+3600.8 28974: 2.04 1/s
+3241.5 24023: 1.11 1/s
+3601.7 25092: 1.01 1/s
+3660.8 29100: 2.10 1/s
+3301.6 24089: 1.09 1/s
+3661.8 25154: 1.03 1/s
+3720.9 29212: 1.87 1/s
+3361.6 24158: 1.15 1/s
+3721.8 25218: 1.06 1/s
+3780.9 29325: 1.87 1/s
+3421.7 24218: 1.01 1/s
+3781.9 25280: 1.04 1/s
+3840.9 29433: 1.81 1/s
+3481.8 24282: 1.05 1/s
+3842.0 25343: 1.03 1/s
+3901.0 29544: 1.85 1/s
+3541.9 24344: 1.05 1/s
+3902.1 25400: 0.96 1/s
+3961.0 29654: 1.83 1/s
+3602.0 24410: 1.10 1/s
+3962.1 25457: 0.95 1/s
+4021.0 29769: 1.91 1/s
+3662.0 24473: 1.04 1/s
+4022.2 25519: 1.03 1/s
+4081.0 29866: 1.62 1/s
+3722.1 24537: 1.07 1/s
+4082.2 25578: 0.98 1/s
+4141.1 29955: 1.48 1/s
+3782.2 24601: 1.05 1/s
+4142.3 25635: 0.94 1/s
+4201.1 30049: 1.56 1/s
+3842.2 24666: 1.09 1/s
+4202.3 25686: 0.86 1/s
+4261.2 30140: 1.52 1/s
+3902.3 24730: 1.06 1/s
+4262.5 25740: 0.89 1/s
+4321.2 30229: 1.49 1/s
+3962.3 24795: 1.09 1/s
+4322.5 25790: 0.84 1/s
+4381.2 30321: 1.53 1/s
+4022.4 24856: 1.00 1/s
+4382.6 25843: 0.87 1/s
+4441.3 30433: 1.87 1/s
+4082.5 24917: 1.03 1/s
+4442.6 25895: 0.86 1/s
+4501.3 30526: 1.55 1/s
+4142.6 24977: 1.00 1/s
+4502.7 25945: 0.84 1/s
+4561.3 30618: 1.53 1/s
+4202.6 25040: 1.04 1/s
+4562.7 25995: 0.82 1/s
+4621.4 30705: 1.45 1/s
+4262.7 25101: 1.03 1/s
+4622.8 26046: 0.85 1/s
+4681.4 30803: 1.64 1/s
+4322.7 25164: 1.05 1/s
+4682.8 26100: 0.91 1/s
+4741.4 30905: 1.70 1/s
+4382.8 25232: 1.12 1/s
+4742.9 26162: 1.03 1/s
+4801.4 30998: 1.55 1/s
+4442.8 25295: 1.05 1/s
+4802.9 26226: 1.06 1/s
+4861.5 31089: 1.51 1/s
+4502.9 25357: 1.04 1/s
+4862.9 26282: 0.93 1/s
+4921.5 31179: 1.49 1/s
+4562.9 25417: 0.99 1/s
+4922.9 26339: 0.95 1/s
+4981.5 31271: 1.53 1/s
+4623.0 25476: 0.99 1/s
+4983.0 26393: 0.91 1/s
+5041.5 31367: 1.60 1/s
+4683.1 25540: 1.07 1/s
+5043.0 26443: 0.83 1/s
+5101.6 31465: 1.64 1/s
+4743.2 25601: 1.01 1/s
+5103.1 26492: 0.80 1/s
+5161.7 31558: 1.54 1/s
+4803.2 25658: 0.95 1/s
+5163.1 26538: 0.77 1/s
+5221.7 31635: 1.29 1/s
+4863.3 25711: 0.87 1/s
+5223.1 26585: 0.77 1/s
+5281.8 31707: 1.20 1/s
+4923.4 25762: 0.86 1/s
+5283.2 26632: 0.79 1/s
+5341.8 31783: 1.27 1/s
+4983.5 25816: 0.90 1/s
+5343.3 26682: 0.84 1/s
+5401.9 31861: 1.30 1/s
+5043.5 25868: 0.86 1/s
+5403.4 26732: 0.82 1/s
+5461.9 31943: 1.36 1/s
+5103.5 25919: 0.86 1/s
+5463.5 26780: 0.81 1/s
+5522.0 32023: 1.32 1/s
+5163.6 25968: 0.81 1/s
+5523.6 26827: 0.77 1/s
+5582.0 32110: 1.45 1/s
+5223.6 26019: 0.85 1/s
+5583.6 26868: 0.70 1/s
+5642.0 32214: 1.73 1/s
+5283.6 26073: 0.90 1/s
+5643.7 26914: 0.77 1/s
+5702.0 32296: 1.38 1/s
+5343.7 26128: 0.92 1/s
+5703.7 26960: 0.76 1/s
+5762.1 32380: 1.39 1/s
+5403.8 26184: 0.93 1/s
+5763.8 27008: 0.79 1/s
+5822.1 32465: 1.42 1/s
+5463.9 26239: 0.92 1/s
+5823.8 27052: 0.74 1/s
+5882.2 32546: 1.35 1/s
+5523.9 26291: 0.88 1/s
+5883.8 27097: 0.75 1/s
+5942.2 32628: 1.36 1/s
+5584.0 26343: 0.86 1/s
+5943.9 27144: 0.77 1/s
+6002.2 32718: 1.50 1/s
+5644.1 26392: 0.82 1/s
+6004.0 27190: 0.77 1/s
+6062.2 32804: 1.43 1/s
+5704.2 26440: 0.80 1/s
+6064.0 27239: 0.81 1/s
+6122.3 32871: 1.12 1/s
+5764.2 26489: 0.81 1/s
+6124.1 27286: 0.79 1/s
+6182.3 32941: 1.17 1/s
+5824.3 26536: 0.79 1/s
+6184.2 27334: 0.80 1/s
+6242.4 33018: 1.28 1/s
+5884.3 26584: 0.79 1/s
+6244.2 27378: 0.74 1/s
+6302.4 33108: 1.50 1/s
+5944.4 26633: 0.83 1/s
+6304.2 27423: 0.75 1/s
+6362.4 33194: 1.42 1/s
+6004.4 26685: 0.87 1/s
+6364.3 27464: 0.69 1/s
+6422.5 33274: 1.34 1/s
+6064.4 26735: 0.82 1/s
+6424.4 27506: 0.69 1/s
+6482.5 33341: 1.11 1/s
+6124.5 26783: 0.81 1/s
+6484.5 27548: 0.70 1/s
+6542.6 33409: 1.14 1/s
+6184.6 26830: 0.78 1/s
+6544.6 27589: 0.68 1/s
+6602.7 33480: 1.17 1/s
+6244.7 26874: 0.73 1/s
+6604.6 27632: 0.72 1/s
+6662.7 33545: 1.08 1/s
+6304.7 26923: 0.82 1/s
+6664.7 27677: 0.74 1/s
+6722.8 33611: 1.11 1/s
+6364.8 26971: 0.79 1/s
+6724.8 27719: 0.70 1/s
+6782.8 33684: 1.20 1/s
+6424.9 27019: 0.79 1/s
+6784.9 27759: 0.67 1/s
+6842.8 33762: 1.30 1/s
+6484.9 27064: 0.76 1/s
+6845.0 27803: 0.74 1/s
+6902.8 33835: 1.23 1/s
+6545.1 27108: 0.72 1/s
+6905.0 27849: 0.76 1/s
+6962.9 33911: 1.26 1/s
+6605.1 27154: 0.78 1/s
+6965.1 27895: 0.77 1/s
+7022.9 33981: 1.16 1/s
+6665.3 27205: 0.84 1/s
+7025.2 27938: 0.71 1/s
+7083.0 34044: 1.06 1/s
+6725.4 27255: 0.82 1/s
+7085.3 27981: 0.72 1/s
+7143.1 34105: 1.01 1/s
+6785.5 27306: 0.86 1/s
+7145.3 28025: 0.73 1/s
+7203.1 34166: 1.02 1/s
+6845.5 27355: 0.81 1/s
+7205.5 28063: 0.64 1/s
+7263.1 34236: 1.17 1/s
+6905.6 27397: 0.71 1/s
+7265.5 28104: 0.68 1/s
+7323.1 34314: 1.29 1/s
+6965.6 27440: 0.71 1/s
+7325.6 28145: 0.68 1/s
+7383.2 34381: 1.11 1/s
+7025.6 27482: 0.70 1/s
+7385.6 28185: 0.67 1/s
+7443.2 34457: 1.27 1/s
+7085.7 27526: 0.72 1/s
+7445.6 28221: 0.60 1/s
+7503.3 34539: 1.37 1/s
+7145.8 27568: 0.69 1/s
+7505.7 28258: 0.61 1/s
+7563.4 34605: 1.09 1/s
+7206.0 27611: 0.72 1/s
+7565.8 28294: 0.61 1/s
+7623.4 34672: 1.12 1/s
+7266.1 27655: 0.74 1/s
+7625.9 28331: 0.61 1/s
+7683.4 34747: 1.26 1/s
+7326.1 27698: 0.70 1/s
+7686.1 28364: 0.55 1/s
+7743.5 34824: 1.28 1/s
+7386.3 27740: 0.71 1/s
+7746.1 28400: 0.60 1/s
+7803.5 34909: 1.41 1/s
+7446.3 27784: 0.73 1/s
+7806.1 28440: 0.66 1/s
+7863.6 34979: 1.17 1/s
+7506.3 27828: 0.74 1/s
+7866.2 28476: 0.61 1/s
+7923.6 35057: 1.29 1/s
+7566.3 27875: 0.78 1/s
+7926.3 28517: 0.67 1/s
+7983.6 35136: 1.31 1/s
+7626.3 27920: 0.74 1/s
+7986.3 28556: 0.65 1/s
+8043.7 35206: 1.18 1/s
+7686.4 27963: 0.72 1/s
+8046.4 28594: 0.63 1/s
+8103.7 35267: 1.00 1/s
+7746.4 28009: 0.76 1/s
+8106.5 28632: 0.62 1/s
+8163.8 35325: 0.97 1/s
+7806.5 28052: 0.72 1/s
+8166.5 28666: 0.58 1/s
+8223.8 35382: 0.96 1/s
+7866.7 28092: 0.67 1/s
+8226.6 28702: 0.59 1/s
+8283.8 35439: 0.95 1/s
+7926.7 28133: 0.67 1/s
+8286.7 28742: 0.66 1/s
+8343.9 35514: 1.24 1/s
+7986.8 28176: 0.72 1/s
+8346.8 28780: 0.64 1/s
+8403.9 35573: 0.99 1/s
+8378.4 28800: 0.62 1/s
+Simulation done in 8378.24s
+---
+All done in 8401.57s
+Ignoring existing simulation:  /home/service/the-one-normal/reports/prague1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:39600_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt
+8046.9 28215: 0.65 1/s
+8464.0 35640: 1.11 1/s
+8107.0 28252: 0.61 1/s
+8524.0 35717: 1.28 1/s
+8167.0 28289: 0.63 1/s
+8584.0 35792: 1.25 1/s
+8227.2 28328: 0.65 1/s
+8644.1 35848: 0.93 1/s
+8287.2 28362: 0.55 1/s
+8704.2 35910: 1.03 1/s
+8347.2 28400: 0.63 1/s
+8764.2 35975: 1.08 1/s
+8407.3 28441: 0.70 1/s
+8824.3 36043: 1.14 1/s
+8467.4 28482: 0.67 1/s
+8884.3 36124: 1.35 1/s
+8527.5 28525: 0.73 1/s
+8944.4 36196: 1.19 1/s
+8587.6 28568: 0.71 1/s
+9004.4 36271: 1.26 1/s
+8647.6 28608: 0.66 1/s
+9064.5 36337: 1.10 1/s
+8707.6 28645: 0.62 1/s
+9124.5 36398: 1.02 1/s
+8767.7 28685: 0.67 1/s
+9184.6 36460: 1.03 1/s
+8827.8 28725: 0.66 1/s
+9244.6 36527: 1.12 1/s
+8887.8 28767: 0.71 1/s
+9304.7 36598: 1.19 1/s
+8948.0 28806: 0.64 1/s
+9364.7 36662: 1.06 1/s
+9008.0 28839: 0.55 1/s
+9424.8 36736: 1.22 1/s
+9068.1 28876: 0.62 1/s
+9484.9 36806: 1.17 1/s
+9128.1 28914: 0.62 1/s
+9544.9 36873: 1.11 1/s
+9188.2 28947: 0.55 1/s
+9604.9 36942: 1.15 1/s
+9248.3 28984: 0.63 1/s
+9665.0 37011: 1.16 1/s
+9308.4 29021: 0.61 1/s
+9725.0 37072: 1.02 1/s
+9368.4 29058: 0.62 1/s
+9785.0 37138: 1.10 1/s
+9428.5 29097: 0.64 1/s
+9845.1 37203: 1.07 1/s
+9488.5 29133: 0.60 1/s
+9905.2 37271: 1.14 1/s
+9548.5 29172: 0.65 1/s
+9965.2 37337: 1.10 1/s
+9608.5 29206: 0.57 1/s
+10025.3 37408: 1.19 1/s
+9668.6 29241: 0.57 1/s
+10085.3 37485: 1.28 1/s
+9728.7 29274: 0.56 1/s
+10145.3 37549: 1.06 1/s
+9788.8 29305: 0.50 1/s
+10205.4 37614: 1.09 1/s
+9848.9 29340: 0.59 1/s
+10265.4 37672: 0.97 1/s
+9909.0 29374: 0.56 1/s
+10325.5 37738: 1.09 1/s
+9969.1 29408: 0.57 1/s
+10385.6 37804: 1.11 1/s
+10029.3 29438: 0.50 1/s
+10445.6 37875: 1.18 1/s
+10089.4 29472: 0.57 1/s
+10505.7 37940: 1.08 1/s
+10149.4 29505: 0.54 1/s
+10565.7 38001: 1.01 1/s
+10209.5 29536: 0.52 1/s
+10625.7 38065: 1.07 1/s
+10269.6 29566: 0.51 1/s
+10685.8 38135: 1.16 1/s
+10329.8 29601: 0.57 1/s
+10745.8 38196: 1.01 1/s
+10389.9 29634: 0.55 1/s
+10805.8 38253: 0.95 1/s
+10450.0 29666: 0.53 1/s
+10865.9 38314: 1.02 1/s
+10510.2 29703: 0.62 1/s
+10925.9 38384: 1.15 1/s
+10570.2 29735: 0.53 1/s
+10986.0 38446: 1.04 1/s
+10630.4 29767: 0.55 1/s
+11046.0 38512: 1.09 1/s
+10690.5 29795: 0.46 1/s
+11106.1 38573: 1.02 1/s
+10750.5 29828: 0.55 1/s
+11166.1 38636: 1.05 1/s
+10810.7 29857: 0.49 1/s
+11226.2 38707: 1.19 1/s
+10870.8 29891: 0.56 1/s
+11286.2 38766: 0.97 1/s
+10930.8 29921: 0.50 1/s
+11346.3 38821: 0.92 1/s
+10991.0 29951: 0.51 1/s
+11406.3 38879: 0.96 1/s
+11051.0 29983: 0.52 1/s
+11466.4 38940: 1.02 1/s
+11111.1 30014: 0.51 1/s
+11526.5 39003: 1.05 1/s
+11171.2 30042: 0.48 1/s
+11586.6 39067: 1.05 1/s
+11231.4 30072: 0.49 1/s
+11646.6 39125: 0.97 1/s
+11291.5 30097: 0.42 1/s
+11706.7 39183: 0.98 1/s
+11351.6 30127: 0.50 1/s
+11766.8 39244: 1.02 1/s
+11411.6 30154: 0.45 1/s
+11826.8 39311: 1.11 1/s
+11471.9 30186: 0.53 1/s
+11887.0 39374: 1.05 1/s
+11531.9 30214: 0.47 1/s
+11947.1 39430: 0.94 1/s
+11591.9 30248: 0.56 1/s
+12007.2 39490: 0.99 1/s
+11652.1 30277: 0.49 1/s
+12067.2 39546: 0.94 1/s
+11712.1 30311: 0.56 1/s
+12118.9 39600: 1.04 1/s
+Simulation done in 12118.72s
+---
+All done in 12122.08s
+/home/service/the-one-normal/reports/helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'ProphetV2Router', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '18000', 'Scenario.endTime': '28800', 'Events1.interval': '5', 'Scenario.updateInterval': '0.1', 'ProphetV2Router.beta': '0.6', 'ProphetV2Router.gamma': '1.0', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'helsinki1True_settings.txt']
+Percent: 2/2
+Run 1/1
+11 in line defined by file data/helsinki1True/1_schedule.csv
+10 in line defined by file data/helsinki1True/2_schedule.csv
+10 in line defined by file data/helsinki1True/3_schedule.csv
+16 in line defined by file data/helsinki1True/4_schedule.csv
+15 in line defined by file data/helsinki1True/6T_schedule.csv
+18 in line defined by file data/helsinki1True/7_schedule.csv
+12 in line defined by file data/helsinki1True/8_schedule.csv
+11 in line defined by file data/helsinki1True/9_schedule.csv
+13 in line defined by file data/helsinki1True/10_schedule.csv
+Running simulation 'helsinki1True_router:ProphetV2Router_bSize:1000G_Ttl:400_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:5_updateInt:0.1_beta:0.6_gamma:1.0_tSpeed:1M_tRange:80_seed:1'
+11772.2 30341: 0.50 1/s
+60.0 4156: 69.26 1/s
+11832.2 30372: 0.51 1/s
+120.0 5751: 26.59 1/s
+11892.2 30399: 0.46 1/s
+180.0 6956: 20.07 1/s
+11952.4 30429: 0.50 1/s
+240.0 8042: 18.10 1/s
+12012.5 30454: 0.41 1/s
+300.0 9092: 17.51 1/s
+12072.6 30483: 0.49 1/s
+360.0 10104: 16.85 1/s
+12132.7 30510: 0.44 1/s
+420.0 11111: 16.78 1/s
+12192.9 30541: 0.53 1/s
+480.0 12108: 16.62 1/s
+12253.0 30568: 0.44 1/s
+540.1 13084: 16.27 1/s
+12313.1 30597: 0.49 1/s
+600.1 14030: 15.76 1/s
+12373.3 30621: 0.40 1/s
+660.1 14982: 15.87 1/s
+12433.4 30650: 0.48 1/s
+720.1 15925: 15.71 1/s
+12493.5 30677: 0.45 1/s
+780.1 16861: 15.61 1/s
+12553.7 30704: 0.45 1/s
+840.1 17778: 15.27 1/s
+12613.9 30731: 0.46 1/s
+900.1 18692: 15.23 1/s
+12673.9 30755: 0.40 1/s
+960.1 19589: 14.95 1/s
+12734.1 30787: 0.53 1/s
+1020.1 20395: 13.43 1/s
+12794.2 30815: 0.47 1/s
+1080.1 21090: 11.59 1/s
+12854.4 30846: 0.51 1/s
+1140.1 21687: 9.95 1/s
+12914.4 30873: 0.44 1/s
+1200.1 22185: 8.30 1/s
+12974.5 30905: 0.53 1/s
+1260.1 22620: 7.25 1/s
+13034.7 30929: 0.41 1/s
+1320.1 22985: 6.08 1/s
+13094.8 30958: 0.47 1/s
+1380.2 23325: 5.67 1/s
+13155.1 30981: 0.39 1/s
+1440.2 23680: 5.90 1/s
+13215.2 31008: 0.44 1/s
+1500.2 24000: 5.34 1/s
+13275.4 31034: 0.44 1/s
+1560.2 24310: 5.17 1/s
+13335.6 31057: 0.38 1/s
+1620.2 24574: 4.40 1/s
+13395.8 31083: 0.45 1/s
+1680.2 24844: 4.50 1/s
+13456.0 31108: 0.41 1/s
+1740.2 25112: 4.47 1/s
+13516.0 31137: 0.49 1/s
+1800.2 25382: 4.50 1/s
+13576.5 31160: 0.38 1/s
+1860.2 25623: 4.02 1/s
+13636.7 31185: 0.41 1/s
+1920.3 25851: 3.80 1/s
+13696.7 31209: 0.41 1/s
+1980.3 26115: 4.39 1/s
+13756.9 31232: 0.38 1/s
+2040.3 26365: 4.17 1/s
+13817.0 31260: 0.47 1/s
+2100.3 26633: 4.47 1/s
+13877.2 31284: 0.40 1/s
+2160.3 26905: 4.53 1/s
+13937.3 31312: 0.46 1/s
+2220.3 27133: 3.79 1/s
+13997.4 31337: 0.42 1/s
+2280.3 27306: 2.89 1/s
+14057.4 31361: 0.40 1/s
+2340.3 27515: 3.48 1/s
+14117.6 31391: 0.49 1/s
+2400.4 27719: 3.40 1/s
+14177.7 31416: 0.42 1/s
+2460.4 27931: 3.52 1/s
+14238.0 31445: 0.48 1/s
+2520.4 28111: 3.01 1/s
+14298.1 31471: 0.43 1/s
+2580.4 28293: 3.03 1/s
+14358.1 31501: 0.51 1/s
+2640.4 28493: 3.32 1/s
+14418.3 31524: 0.39 1/s
+2700.4 28679: 3.10 1/s
+14478.4 31554: 0.48 1/s
+2742.6 28800: 2.87 1/s
+Simulation done in 2742.41s
+---
+All done in 2745.70s
+14538.6 31577: 0.39 1/s
+14598.7 31601: 0.40 1/s
+14659.0 31628: 0.45 1/s
+14719.2 31649: 0.35 1/s
+14779.3 31677: 0.47 1/s
+14839.5 31701: 0.39 1/s
+14899.6 31728: 0.45 1/s
+14959.8 31753: 0.41 1/s
+15020.0 31776: 0.38 1/s
+15080.2 31803: 0.44 1/s
+15140.4 31823: 0.34 1/s
+15200.5 31849: 0.42 1/s
+15260.8 31873: 0.40 1/s
+15321.0 31895: 0.37 1/s
+15381.1 31922: 0.44 1/s
+15441.4 31942: 0.33 1/s
+15501.4 31965: 0.39 1/s
+15561.5 31991: 0.43 1/s
+15621.6 32015: 0.40 1/s
+15681.7 32043: 0.47 1/s
+15741.8 32067: 0.40 1/s
+15801.9 32097: 0.50 1/s
+15862.0 32121: 0.41 1/s
+15922.1 32148: 0.44 1/s
+15982.2 32172: 0.40 1/s
+16042.4 32192: 0.34 1/s
+16102.5 32218: 0.43 1/s
+16162.8 32237: 0.32 1/s
+16223.0 32258: 0.35 1/s
+16283.2 32284: 0.43 1/s
+16343.3 32306: 0.37 1/s
+16403.3 32332: 0.43 1/s
+16463.6 32354: 0.36 1/s
+16523.6 32376: 0.37 1/s
+16583.8 32401: 0.42 1/s
+16644.0 32421: 0.33 1/s
+16704.0 32443: 0.37 1/s
+16764.2 32468: 0.42 1/s
+16824.4 32489: 0.35 1/s
+16884.6 32515: 0.42 1/s
+16944.7 32537: 0.36 1/s
+17004.8 32557: 0.35 1/s
+17064.8 32583: 0.43 1/s
+17125.0 32604: 0.34 1/s
+17185.1 32631: 0.45 1/s
+17245.3 32655: 0.40 1/s
+17305.4 32679: 0.40 1/s
+17365.6 32706: 0.44 1/s
+17425.6 32726: 0.34 1/s
+17485.7 32751: 0.40 1/s
+17545.8 32772: 0.36 1/s
+17605.8 32791: 0.32 1/s
+17665.9 32815: 0.40 1/s
+17726.1 32835: 0.34 1/s
+17786.2 32855: 0.32 1/s
+17846.4 32878: 0.39 1/s
+17906.5 32898: 0.33 1/s
+17966.5 32922: 0.39 1/s
+18026.7 32945: 0.39 1/s
+18087.2 32965: 0.33 1/s
+18147.3 32988: 0.39 1/s
+18207.6 33008: 0.34 1/s
+18267.6 33025: 0.28 1/s
+18327.8 33048: 0.38 1/s
+18388.0 33069: 0.34 1/s
+18448.1 33087: 0.31 1/s
+18508.4 33111: 0.40 1/s
+18568.7 33132: 0.35 1/s
+18628.7 33150: 0.30 1/s
+18688.7 33173: 0.38 1/s
+18749.0 33196: 0.39 1/s
+18809.0 33219: 0.38 1/s
+18869.0 33244: 0.42 1/s
+18929.0 33263: 0.31 1/s
+18989.1 33288: 0.41 1/s
+19049.3 33311: 0.38 1/s
+19109.6 33330: 0.32 1/s
+19169.7 33354: 0.39 1/s
+19229.9 33374: 0.34 1/s
+19290.1 33394: 0.33 1/s
+19350.3 33419: 0.41 1/s
+19410.6 33438: 0.31 1/s
+19470.7 33458: 0.33 1/s
+19530.8 33481: 0.39 1/s
+19590.9 33501: 0.33 1/s
+19651.1 33523: 0.37 1/s
+19711.3 33546: 0.39 1/s
+19771.4 33564: 0.29 1/s
+19831.8 33585: 0.35 1/s
+19892.0 33606: 0.35 1/s
+19952.1 33622: 0.26 1/s
+20012.2 33642: 0.34 1/s
+20072.2 33665: 0.38 1/s
+20132.3 33682: 0.29 1/s
+20192.3 33704: 0.36 1/s
+20252.4 33725: 0.35 1/s
+20312.5 33743: 0.29 1/s
+20372.7 33764: 0.36 1/s
+20433.0 33787: 0.39 1/s
+20493.2 33806: 0.32 1/s
+20553.2 33829: 0.37 1/s
+20613.6 33850: 0.35 1/s
+20673.9 33869: 0.32 1/s
+20734.0 33893: 0.39 1/s
+20794.0 33913: 0.34 1/s
+20854.0 33930: 0.28 1/s
+20914.2 33952: 0.36 1/s
+20974.5 33972: 0.34 1/s
+21034.7 33991: 0.30 1/s
+21094.9 34014: 0.39 1/s
+21155.2 34033: 0.31 1/s
+21215.3 34049: 0.27 1/s
+21275.4 34070: 0.34 1/s
+21335.4 34089: 0.32 1/s
+21395.7 34106: 0.28 1/s
+21455.9 34126: 0.34 1/s
+21516.0 34147: 0.35 1/s
+21576.1 34165: 0.29 1/s
+21636.1 34184: 0.32 1/s
+21696.4 34204: 0.33 1/s
+21756.6 34219: 0.25 1/s
+21816.7 34238: 0.31 1/s
+21876.8 34260: 0.37 1/s
+21937.1 34278: 0.30 1/s
+21997.3 34298: 0.34 1/s
+22057.3 34320: 0.38 1/s
+22117.4 34337: 0.27 1/s
+22177.4 34354: 0.29 1/s
+22237.5 34376: 0.37 1/s
+22297.6 34395: 0.31 1/s
+22357.8 34413: 0.30 1/s
+22418.0 34436: 0.38 1/s
+22478.1 34454: 0.30 1/s
+22538.2 34472: 0.30 1/s
+22598.5 34494: 0.37 1/s
+22658.7 34512: 0.30 1/s
+22719.0 34529: 0.29 1/s
+22779.2 34551: 0.37 1/s
+22839.4 34572: 0.35 1/s
+22899.7 34589: 0.29 1/s
+22959.9 34611: 0.36 1/s
+23020.2 34632: 0.34 1/s
+23080.2 34650: 0.30 1/s
+23140.4 34674: 0.39 1/s
+23200.6 34692: 0.30 1/s
+23260.9 34711: 0.32 1/s
+23321.0 34734: 0.37 1/s
+23381.1 34752: 0.30 1/s
+23441.2 34768: 0.27 1/s
+23501.2 34789: 0.35 1/s
+23561.4 34808: 0.31 1/s
+23621.7 34824: 0.27 1/s
+23681.9 34844: 0.33 1/s
+23742.0 34865: 0.35 1/s
+23802.3 34881: 0.26 1/s
+23862.5 34899: 0.31 1/s
+23922.7 34920: 0.35 1/s
+23982.8 34937: 0.28 1/s
+24042.9 34954: 0.29 1/s
+24103.1 34976: 0.36 1/s
+24163.4 34995: 0.31 1/s
+24223.7 35012: 0.29 1/s
+24283.9 35034: 0.37 1/s
+24343.9 35051: 0.29 1/s
+24404.2 35068: 0.27 1/s
+24464.3 35089: 0.35 1/s
+24524.6 35109: 0.34 1/s
+24584.7 35126: 0.28 1/s
+24644.8 35147: 0.34 1/s
+24704.9 35167: 0.33 1/s
+24764.9 35183: 0.27 1/s
+24825.1 35204: 0.35 1/s
+24885.2 35226: 0.37 1/s
+24945.3 35243: 0.29 1/s
+25005.3 35263: 0.33 1/s
+25065.6 35285: 0.36 1/s
+25125.8 35301: 0.27 1/s
+25186.0 35320: 0.32 1/s
+25246.1 35341: 0.34 1/s
+25306.5 35357: 0.27 1/s
+25366.5 35376: 0.31 1/s
+25426.6 35397: 0.36 1/s
+25486.7 35413: 0.27 1/s
+25546.8 35430: 0.28 1/s
+25606.9 35451: 0.35 1/s
+25667.1 35469: 0.30 1/s
+25727.3 35485: 0.25 1/s
+25787.4 35503: 0.31 1/s
+25847.8 35524: 0.34 1/s
+25908.1 35540: 0.27 1/s
+25968.3 35558: 0.30 1/s
+26028.6 35578: 0.33 1/s
+26088.9 35595: 0.28 1/s
+26149.0 35612: 0.28 1/s
+26209.1 35633: 0.34 1/s
+26269.3 35650: 0.30 1/s
+26329.4 35666: 0.26 1/s
+26389.7 35686: 0.32 1/s
+26449.9 35706: 0.33 1/s
+26509.9 35723: 0.28 1/s
+26570.2 35744: 0.35 1/s
+26630.4 35765: 0.35 1/s
+26690.5 35781: 0.26 1/s
+26750.8 35799: 0.31 1/s
+26811.1 35820: 0.34 1/s
+26871.2 35837: 0.29 1/s
+26931.5 35854: 0.28 1/s
+26991.6 35874: 0.33 1/s

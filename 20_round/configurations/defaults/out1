@@ -1,0 +1,16 @@
+/home/service/the-one-normal/reports/freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:90000_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1_MessageStatsReport.txt does not exist. Simulating...
+Setting values: {'Group.router': 'EpidemicRouter', 'Group.bufferSize': '1000G', 'Group.msgTtl': '400', 'Events1.size': '1M', 'MovementModel.warmup': '0', 'Scenario.endTime': '90000', 'Events1.interval': '90000', 'Scenario.updateInterval': '1.0', 'ProphetV2Router.beta': '0.9', 'ProphetV2Router.gamma': '0.999885791', 'btInterface.transmitSpeed': '1M', 'btInterface.transmitRange': '80', 'MovementModel.rngSeed': '1'}
+['./one.sh', '-b', '1', 'freiburg1True_settings.txt']
+Percent: 1/1
+Picked up _JAVA_OPTIONS: -Xms8G -Xmx8G
+Run 1/1
+23 in line defined by file data/freiburg1True/1_schedule.csv
+24 in line defined by file data/freiburg1True/2_schedule.csv
+44 in line defined by file data/freiburg1True/3_schedule.csv
+15 in line defined by file data/freiburg1True/4_schedule.csv
+11 in line defined by file data/freiburg1True/5_schedule.csv
+Running simulation 'freiburg1True_router:EpidemicRouter_bSize:1000G_Ttl:400_Events1.size:1M_endTime:90000_warmup:0_Events1.interval:90000_updateInt:1.0_beta:0.9_gamma:0.999885791_tSpeed:1M_tRange:80_seed:1'
+10.0 90000: 9037.05 1/s
+Simulation done in 9.86s
+---
+All done in 11.13s

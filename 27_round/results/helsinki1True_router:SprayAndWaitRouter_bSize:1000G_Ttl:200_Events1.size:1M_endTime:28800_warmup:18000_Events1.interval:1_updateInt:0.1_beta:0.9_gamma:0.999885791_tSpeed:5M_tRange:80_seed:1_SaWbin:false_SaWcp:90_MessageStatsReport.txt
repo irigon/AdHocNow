@@ -1,0 +1,20 @@
+Message stats for scenario helsinki1True_router:SprayAndWaitRouter_bSize:1000G_Ttl:200_Events1.size:1M_endTime:28800_warmup:18000_Events1.interval:1_updateInt:0.1_beta:0.9_gamma:0.999885791_tSpeed:5M_tRange:80_seed:1_SaWbin:false_SaWcp:90
+sim_time: 28800.1000
+created: 28800
+started: 410351
+relayed: 410143
+aborted: 205
+dropped: 174633
+removed: 0
+delivered: 8173
+delivery_prob: 0.2838
+response_prob: 0.0000
+overhead_ratio: 49.1827
+latency_avg: 3505.8836
+latency_med: 1681.4000
+hopcount_avg: 1.9862
+hopcount_med: 2
+buffertime_avg: 7615.7694
+buffertime_med: 5650.8000
+rtt_avg: NaN
+rtt_med: NaN
